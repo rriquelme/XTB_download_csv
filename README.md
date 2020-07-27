@@ -12,10 +12,10 @@ This program is to download data from XTB using their API, data download is turn
     * Or clone de repo.
     
 2. Change the initial variables, (lines 1-9):
-    * USERNUMBER = "12345678"   ***Your demo account userID or userNumber ***
+    * USERNUMBER = "12345678"   ***Your demo account userID or userNumber***
     * PASSWORD = 'password123'   ***Your password***
-    * datestr = "Jul 15 21:00:00 2020" ***Date since when you want the data to be extracted ***
-    * SYMBOL = "US100" ***Symbol that you want to download data ***
+    * datestr = "Jul 15 21:00:00 2020" ***Date since when you want the data to be extracted***
+    * SYMBOL = "US100" ***Symbol that you want to download data***
 
 3. This will create two files:
     * **out.csv**: output data on csv.
@@ -23,7 +23,7 @@ This program is to download data from XTB using their API, data download is turn
 
 ---
 
-This program is made using the API of XTB.
+This program was made using the API of XTB.
 
 API documentation: http://developers.xstore.pro/documentation/
 
