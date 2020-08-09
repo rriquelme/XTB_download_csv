@@ -27,3 +27,7 @@ This program was made using the API of XTB.
 
 API documentation: http://developers.xstore.pro/documentation/
 
+# TODO
+- Calculate real time index
+- Create GUI
+- Plot data with delay to analize.
