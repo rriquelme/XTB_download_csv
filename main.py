@@ -13,6 +13,14 @@ import ssl
 import json
 import time
 import csv
+import os
+import sys
+# A little workaround to avoid overwrite every single time this file.
+if os.path.isfile("account.txt"):
+    with open("account.txt",'r') as acc_file:
+        acc = acc_file.readlines()
+        USERNUMBER = acc[0].strip('\n')
+        PASSWORD = acc[1].strip('\n')
 
 class xserver(object):
     """docstring for xserver"""

@@ -1,9 +1,9 @@
 CRH.UK_4 - CRH PLC CFD
 GBPCHF - British Pound to Swiss Frank
 IG.IT_4 - Italgas SpA CFD
-AMRN.US_4 - Amarin Corp PLC - ADR CFD)
-EXPD.US_4 - Expeditors International of Wa CFD
+AMRN.US_4 - CLOSE ONLY / Amarin Corp PLC - ADR CFD)
 NXT.UK_4 - Next PLC CFD
+EXPD.US_4 - Expeditors International of Wa CFD
 WCC.US_4 - Wesco International Inc CFD
 FRT.US_4 - Federal Realty Investment Trus CFD
 JMAT.UK_4 - Johnson Matthey PLC CFD
@@ -12,20 +12,20 @@ BATS.UK_4 - British American Tobacco PLC CFD
 FANG.US_4 - Diamondback Energy Inc CFD
 CSL.US_4 - Carlisle Cos Inc CFD
 BEN.US_4 - Franklin Resources Inc CFD
-ALV.DE_4 - Allianz AG CFD
 TGT.US_4 - Target CORP CFD
+ALV.DE_4 - Allianz AG CFD
 SVST.UK_4 - Severstal PJSC - GDR CFD
 MAS.US_4 - Masco Corp CFD
+RMS.FR_4 - Hermes International CFD
 ETHERCLASSIC - Ethereum Classic
 PLAN.US_4 - Anaplan Inc CFD
-RMS.FR_4 - Hermes International CFD
-KGX.DE_4 - KION Group AG CFD
 RIO.US_4 - Rio Tinto PLC CFD - ADR
+KGX.DE_4 - KION Group AG CFD
 QCOM.US_4 - QUALCOMM Inc CFD 
 FDS.US_4 - FactSet Research Systems Inc CFD
 XRAY.US_4 - DENTSPLY SIRONA Inc CFD
-MAIL.UK_4 - Mail.Ru Group Ltd CFD - GDR 
 WBD.IT_4 - Webuild SpA CFD
+MAIL.UK_4 - Mail.Ru Group Ltd CFD - GDR 
 NELES.FI_4 - Neles OYJ CFD
 XEL.US_4 - Xcel Energy Inc CFD
 KEMIRA.FI_4 - Kemira Oyj CFD
@@ -33,20 +33,20 @@ SYY.US_4 - Sysco Corp CFD
 SKX.US_4 - Skechers USA Inc CFD - class A 
 BK.US_4 - Bank of New York Mellon Corp CFD 
 AIMC.US_4 - Altra Industrial Motion Corp CFD
-EURNOK - Euro to Norwegian Krone
 FL.US_4 - Foot Locker Inc CFD
-GTLS.US_4 - Chart Industries Inc CFD
+EURNOK - Euro to Norwegian Krone
 BAER.CH_4 - Julius Baer Group Ltd CFD
+GTLS.US_4 - Chart Industries Inc CFD
 WIZZ.UK_4 - Wizz Air Holding PLC CFD
 FE.US_4 - FirstEnergy Corp CFD
 SNE.US_4 - Sony Corp - ADR CFD
 XLF.US_5 - Financial Select Sector SPDR ETF CFD 
 KOF.FR_4 - Kaufman & Broad SA CFD
-KBH.US_4 - KB Home CFD
 GEO.US_4 - GEO Group Inc/The CFD
-SOON.CH_4 - Sonova Holding AG CFD
+KBH.US_4 - KB Home CFD
 PAC.US_4 - Grupo Aeroportuario del Pacifico SAB de CV CFD - ADR
 MELI.US_4 - MercadoLibre Inc CFD
+SOON.CH_4 - Sonova Holding AG CFD
 PIRC.IT_4 - Pirelli & C SpA CFD
 GAW.UK_4 - Games Workshop Group PLC CFD
 PSQ.US_5 - ProShares Short QQQ ETF CFD 
@@ -57,31 +57,32 @@ FIS.US_4 - Fidelity National Information CFD
 BAM.US_4 - Brookfield Asset Management Inc CFD
 UTG.UK_4 - UNITE Group PLC CFD
 MET.US_4 - MetLife Inc CFD
-AD.NL_4 - Koninklijke Ahold Delhaize NV CFD
 BUD.US_4 - Anheuser-Busch InBev SA/NV - ADR CFD
+AD.NL_4 - Koninklijke Ahold Delhaize NV CFD
 GXI.DE_4 - Gerresheimer AG CFD
 NTAP.US_4 - NetApp Inc CFD
 HES.US_4 - Hess Corp CFD
+KL.US_4 - Kirkland Lake Gold Ltd CFD
 BVS.UK_4 - Bovis Homes Group PLC CFD
 DAN.US_4 - CLOSE ONLY / Dana Holding Corp CFD
 RRTL.DE_4 - RTL Group SA CFD
 OTE1V.FI_4 - Outotec OYJ CFD
-FXA.US_5 - Invesco CurrencyShares Australian Dollar Trust CFD
 ITW.US_4 - Illinois Tool Works Inc CFD
-BYG.UK_4 - Big Yellow Group PLC CFD
+FXA.US_5 - Invesco CurrencyShares Australian Dollar Trust CFD
 HMB.SE_4 - Hennes & Mauritz AB CFD
 MNOD.UK_4 - MMC Norilsk Nickel PJSC CFD - ADR 
+BYG.UK_4 - Big Yellow Group PLC CFD
 ERICB.SE_4 - Telefonaktiebolaget LM Ericsson CFD - class B 
 US100.cash - Contract for index reflecting 100 largest American technology stocks quoted on organized market.
 VWS.DK_4 - Vestas Wind Systems A/S CFD
-USGAME - Gaming and E-sports Giants EW Index calculated by BITA
 TATE.UK_4 - Tate & Lyle PLC CFD
+USGAME - Gaming and E-sports Giants EW Index calculated by BITA
 DRW3.DE_4 - Draegerwerk AG & Co KGaA - preference shares CFD
 SREN.CH_4 - Swiss Re AG CFD
 CRM.US_4 - salesforce.com inc CFD
 INGR.US_4 - Ingredion Inc CFD
-LIGHT.NL_4 - Signify NV CFD
 FISV.US_4 - Fiserv Inc CFD
+LIGHT.NL_4 - Signify NV CFD
 RHIM.UK_4 - RHI Magnesita NV CFD
 BWY.UK_4 - Bellway PLC CFD
 NBIX.US_4 - Neurocrine Biosciences Inc CFD
@@ -93,13 +94,13 @@ TECD.US_4 - Tecg Corp Data CFD
 GIB.US_4 - CGI Inc CFD
 MA.US_4 - Mastercard Inc CFD  - class A 
 F.US_4 - CLOSE ONLY / Ford Motor Co CFD 
-AVV.UK_4 - AVEVA Group PLC CFD
 SPLV.US_5 - PowerShares S&P 500 Low Volatility Portfolio ETF CFD 
-HEN3.DE_4 - Henkel AG CFD - preference shares
+AVV.UK_4 - AVEVA Group PLC CFD
 AGIO.US_4 - Agios Pharmaceuticals Inc CFD
+HEN3.DE_4 - Henkel AG CFD - preference shares
 ODFL.US_4 - Old Dominion Freight Line Inc CFD
-PSN.UK_4 - Persimmon PLC CFD
 BR.US_4 - Broadridge Financial Solutions CFD
+PSN.UK_4 - Persimmon PLC CFD
 CINF.US_4 - Cincinnati Financial Corp CFD
 ETHEREUM - Ethereum
 RHI.US_4 - Robert Half International Inc CFD
@@ -115,8 +116,8 @@ SGEN.US_4 - Seattle Genetics Inc CFD
 NEL.NO_4 - NEL ASA - class A CFD
 MRO.US_4 - CLOSE ONLY / Marathon Oil Corp CFD
 TROW.US_4 - T Rowe Price Group Inc CFD
-SCHB.NO_4 - Schibsted ASA CFD - class B 
 GBPPLN - British Pound to Polish Zloty
+SCHB.NO_4 - Schibsted ASA CFD - class B 
 UU.UK_4 - United Utilities Group PLC CFD
 HST.US_4 - Host Hotels & Resorts Inc CFD
 PE.US_4 - CLOSE ONLY / Parsley Energy Inc CFD - class A 
@@ -125,16 +126,16 @@ ICPT.US_4 - Intercept Pharmaceuticals Inc CFD
 FFIV.US_4 - F5 Networks Inc CFD
 DB1.DE_4 - Deutsche Boerse CFD
 SU.US_4 - Suncor Energy Inc CFD
-PNN.UK_4 - Pennon Group PLC CFD
 QLD.US_5 - ProShares Ultra QQQ ETF CFD 
+PNN.UK_4 - Pennon Group PLC CFD
 UCG.IT_4 - UniCredit SpA CFD
-WDI.DE_4 - Wirecard AG CFD
 EURAUD - Euro to Australian Dollar
+WDI.DE_4 - Wirecard AG CFD
 CFR.CH_4 - Cie Financiere Richemont SA CFD
 NTRS.US_4 - Nothern Trust Corp CFD 
 EV.US_4 - Eaton Vance Corp CFD
-BCP.PT_4 - Banco Comercial Portugues SA CFD
 UNM.US_4 - Unum Group CFD
+BCP.PT_4 - Banco Comercial Portugues SA CFD
 INSP.US_4 - Inspire Medical Systems Inc CFD
 TEX.US_4 - Terex Corp CFD
 TEAM.US_4 - Atlassian Corp PLC CFD - class A 
@@ -143,12 +144,12 @@ PRLB.US_4 - Proto Labs Inc CFD
 CC.US_4 - The Chemours Co. CFD
 APPS.ES_4 - Applus Services SA CFD
 USDCHF - American Dollar to Swiss Frank
-CADJPY - Canadian Dollar to Japanese Yen
 EWZ.US_5 - iShares MSCI Brazil Capped ETF CFD 
-DAI.DE_4 - Daimler AG CFD
+CADJPY - Canadian Dollar to Japanese Yen
 RDSB.UK_4 - Royal Dutch Shell PLC CFD
 ALXN.US_4 - Alexion Pharmaceuticals Inc CFD
 MIME.US_4 - Mimecast Ltd CFD
+DAI.DE_4 - Daimler AG CFD
 AUS200 - Contract for index reflecting 200 largest Australian stocks quoted on organized market.
 CAKE.US_4 - Cheesecake Factory Inc CFD
 SYK.US_4 - Stryker Corp CFD
@@ -162,8 +163,8 @@ NVO.US_4 - Novo Nordisk A/S - ADR CFD
 RBAG.CZ_4 - Erste Group Bank AG CFD
 PPLT.US_5 - Physical Platinum Shares ETF CFD 
 STELLAR - Stellar
-HA.US_4 - Hawaiian Holdings Inc CFD
 BN.FR_4 - Danone CFD
+HA.US_4 - Hawaiian Holdings Inc CFD
 FERG.UK_4 - Ferguson PLC CFD
 US.IT_4 - UnipolSai Spa CFD
 GBT.US_4 - Global Blood Therapeutics CFD
@@ -196,25 +197,26 @@ ARCO.US_4 - CLOSE ONLY / CLOSE ONLY / Arcos Dorados Holdings Inc CFD - class A
 BEI.DE_4 - Beiersdorf AG CFD
 USDTRY - American Dollar to Turkish Lira
 LVS.US_4 - Las Vegas Sands Corp CFD
-FRES.UK_4 - Fresnillo PLC CFD
 UNI.ES_4 - Unicaja Banco SA CFD
+FRES.UK_4 - Fresnillo PLC CFD
 IFX.DE_4 - Infineon Technologies AG CFD
 TNO.FR_5 - Lyxor STOXX Europe 600 Technology UCITS ETF (Dist EUR) CFD
 MONY.UK_4 - Moneysupermarket.com Group PLC CFD
 WDH.DK_4 - William Demant Holding A/S CFD
 LOW.US_4 - Lowe\'s Cos Inc. CFD
-LK.US_4 - Luckin Coffee Inc  - ADR CFD
+LK.US_4 - CLOSE ONLY / Luckin Coffee Inc  - ADR CFD
 KRN.DE_4 - Krones AG CFD
 FGP.UK_4 - Firstgroup PLC CFD
 ZAL.DE_4 - Zalando SE CFD
-GBPUSD - British Pound to American Dollar
 ZINC - Zinc quoted on organized market
 JACK.US_4 - Jack in the Box Inc CFD
+GBPUSD - British Pound to American Dollar
 DISCK.US_4 - Discovery Communications Inc CFD
 BNTX.US_4 - BioNTech SE - ADR CFD
 DNOW.US_4 - CLOSE ONLY / NOW Inc CFD
 GIII.US_4 - CLOSE ONLY / G-III Apparel Group Ltd CFD
 TCH.FR_4 - Technicolor SA CFD
+TWLO.US_4 - Twilio Inc - class A CFD
 SLB.US_4 - Schlumberger Ltd CFD 
 GWI1.DE_4 - CLOSE ONLY / Gerry Weber International AG CFD
 NI.US_4 - NiSource Inc CFD
@@ -222,8 +224,8 @@ TNET.BE_4 - Telenet Group Holding NV CFD
 DSHBTC - 10 Dash vs Bitcoin
 GPN.US_4 - Global Payments Inc CFD
 MDLZ.US_4 - Mondelez International Inc CFD - class A 
-STAA.US_4 - STAAR Surgical Co CFD
 LUN.DK_4 - H Lundbeck A/S CFD
+STAA.US_4 - STAAR Surgical Co CFD
 ROST.US_4 - Ross Stores Inc CFD
 TAP.US_4 - Molson Coors Brewing Co CFD - class B 
 TJX.US_4 - TJX Companies Inc. CFD
@@ -232,10 +234,10 @@ GBF.DE_4 - Bilfinger SE CFD
 SIE.DE_4 - Siemens AG CFD
 SGRE.ES_4 - Siemens Gamesa Renewable Energy SA CFD
 XLV.US_5 - Health Care Select Sector SPDR ETF CFD 
-UK100 - Contract for index reflecting 100 largest UK stocks quoted on organized market.
 ARL.DE_4 - Aareal Bank AG CFD
-AEO.US_4 - CLOSE ONLY / American Eagle Outfitters Inc CFD
+UK100 - Contract for index reflecting 100 largest UK stocks quoted on organized market.
 THS.US_4 - TreeHouse Foods Inc CFD
+AEO.US_4 - CLOSE ONLY / American Eagle Outfitters Inc CFD
 AMBA.US_4 - Ambarella Inc CFD
 AYX.US_4 - Alteryx Inc CFD - class A 
 DEQ.DE_4 - Deutsche Euroshop AG CFD
@@ -243,8 +245,8 @@ FRO.NO_4 - Frontline Ltd CFD
 UNH.US_4 - UnitedHealth Group Inc CFD
 VEEV.US_4 - Veeva Systems Inc CFD - class A 
 HL.UK_4 - Hargreaves Lansdown PLC CFD
-AUDNZD - Australian Dollar to New Zealand Dollar
 FTI.US_4 - CLOSE ONLY / FMC Technologies Inc CFD
+AUDNZD - Australian Dollar to New Zealand Dollar
 ABIO.FR_4 - Albioma SA CFD
 DOV.US_4 - Dover Corp CFD
 PSLV.US_5 - CLOSE ONLY / Sprott Physical Silver Trust ETF CFD 
@@ -256,18 +258,18 @@ SXS.UK_4 - Spectris PLC CFD
 EOG.US_4 - EOG Resources INC CFD
 IFF.US_4 - International Flavors & Fragra CFD
 PSON.UK_4 - Pearson PLC CFD
-ENGI.FR_4 - Engie SA CFD
 IVZ.US_4 - CLOSE ONLY / Invesco Ltd CFD
-KESKOB.FI_4 - Kesko Oyj CFD
+ENGI.FR_4 - Engie SA CFD
 DE30.cash - Contract for index reflecting 30 largest German stocks quoted on organized market.
+KESKOB.FI_4 - Kesko Oyj CFD
 GFC.FR_4 - Gecina SA CFD
 ACC.US_4 - American Campus Communities In CFD
 IOTABTC - 10K MIOTA vs Bitcoin
-ENG.ES_4 - Enagas CFD
 RIO.UK_4 - Rio Tinto PLC CFD
+ENG.ES_4 - Enagas CFD
 ORCL.US_4 - Oracle Corp CFD 
-IWN.US_5 - iShares Russell 2000 Value ETF CFD 
 BSX.US_4 - Boston Scientific Corp CFD
+IWN.US_5 - iShares Russell 2000 Value ETF CFD 
 SJI.US_4 - South Jersey Industries Inc CFD
 TLGO.ES_4 - Talgo SA CFD
 HSX.UK_4 - Hiscox Ltd CFD
@@ -278,10 +280,10 @@ SON.PT_4 - Sonae CFD
 EDIT.US_4 - Editas Medicine Inc CFD
 TK.US_4 - CLOSE ONLY / Teekay Corp CFD
 SIG.US_4 - CLOSE ONLY / Signet Jewelers Ltd CFD
-UBSG.CH_4 - UBS Group AG CFD
 LDO.IT_4 - Leonardo-Finmeccanica SpA CFD
+UBSG.CH_4 - UBS Group AG CFD
 XLK.US_5 - Technology Select Sector SPDR ETF CFD 
-GSG.US_5 - iShares S&P GSCI Commodity Indexed Trust CFD
+GSG.US_5 - CLOSE ONLY / iShares S&P GSCI Commodity Indexed Trust CFD
 SDRY.UK_4 - Superdry PLC CFD
 BMW.DE_4 - Bayerische Motoren Werke AG CFD
 MMT.FR_4 - Metropole Television SA CFD
@@ -300,8 +302,8 @@ GRF.ES_4 - Grifols SA CFD
 BIV.US_5 - Vanguard Intermediate-Term Bond ETF CFD 
 MDB.US_4 - MongoDB Inc CFD - class A 
 VCT.UK_4 - Victrex PLC CFD
-SAB.ES_4 - Banco de Sabadell SA CFD
 TXN.US_4 - Texas Instruments Inc CFD 
+SAB.ES_4 - Banco de Sabadell SA CFD
 VXX.US_5 - iPath Series B S&P 500 VIX Short-Term Futures ETN CFD
 HK.cash - Contract for index reflecting largest Hong Kong stocks quoted on organized market.
 EWU.US_5 - iShares MSCI United Kingdom ETF CFD 
@@ -309,9 +311,9 @@ EMR.US_4 - Emerson Electric Co CFD
 IAC.US_4 - InterActiveCorp CFD
 GLNG.US_4 - CLOSE ONLY / Golar LNG Ltd CFD
 STT.US_4 - State Street Corp CFD 
-BME.ES_4 - Bolsas y Mercados Espanoles CFD
-PHOR.UK_4 - PhosAgro PJSC - GDR CFD
+BME.ES_4 - CLOSE ONLY / Bolsas y Mercados Espanoles CFD
 NG.UK_4 - National Grid PLC CFD
+PHOR.UK_4 - PhosAgro PJSC - GDR CFD
 LEG.DE_4 - LEG Immobilien AG CFD
 AZN.UK_4 - AstraZeneca PLC CFD
 GAM.ES_4 - CLOSE ONLY / Gamesa Corp Tecnologica SA CFD
@@ -320,8 +322,8 @@ XEC.US_4 - Cimarex Energy Co CFD
 RESI.US_4 - CLOSE ONLY / Front Yard Residential Corp CFD
 CBK.DE_4 - Commerzbank CFD
 BRW.UK_4 - Brewin Dolphin Holdings PLC CFD
-RRD.US_4 - CLOSE ONLY / RR Donnelley & Sons Co CFD
 HTG.UK_4 - Hunting PLC CFD
+RRD.US_4 - CLOSE ONLY / RR Donnelley & Sons Co CFD
 TV.US_4 - CLOSE ONLY / Grupo Televisa SA CFD - ADR
 ABEV.US_4 - CLOSE ONLY / Ambev SA - ADR CFD
 YY.US_4 - YY Inc. CFD - ADR
@@ -330,17 +332,17 @@ VOW.DE_4 - CLOSE ONLY / Volkswagen AG CFD
 OLN.US_4 - Olin Corp CFD
 SGSN.CH_4 - SGS SA CFD
 PLUG.US_4 - CLOSE ONLY / Plug Power Inc CFD
-BIDU.US_4 - Baidu Inc ADR CFD  - ADR
 MDP.US_4 - Meredith Corp CFD
+BIDU.US_4 - Baidu Inc ADR CFD  - ADR
 GLE.FR_4 - Societe Generale CFD
 ETN.US_4 - Eaton Corp PLC CFD
-DRE.US_4 - Duke Realty Corp CFD
 EN.FR_4 - Bouygues SA CFD
-ADM.US_4 - Archer-Daniels-Midland Co CFD
+DRE.US_4 - Duke Realty Corp CFD
 FBHS.US_4 - Fortune Brands Home & Security CFD
+ADM.US_4 - Archer-Daniels-Midland Co CFD
 USDNOK - American Dollar to Norwegian Krone
-US500.cash - Contract for index reflecting 500 largest American stocks quoted on organized market.
 AKA.FR_4 - Akka Technologies CFD
+US500.cash - Contract for index reflecting 500 largest American stocks quoted on organized market.
 ABT.US_4 - Abbot Laboratories CFD
 ALNY.US_4 - Alnylam Pharmaceuticals Inc CFD
 BNP.FR_4 - BNP Paribas CFD
@@ -349,9 +351,9 @@ LSE.UK_4 - London Stock Exchange Group PLC CFD
 URI.US_4 - United Rentals Inc CFD
 SBUX.US_4 - Starbucks Corp CFD 
 CTXS.US_4 - Citrix Systems Inc CFD 
-ZTO.US_4 - ZTO Express Cayman Inc - ADR CFD
-LYB.US_4 - LyondellBasell Industries NV CFD
 PHM.US_4 - PulteGroup Inc CFD
+LYB.US_4 - LyondellBasell Industries NV CFD
+ZTO.US_4 - ZTO Express Cayman Inc - ADR CFD
 NLOK.US_4 - NortonLifeLock Inc CFD
 XYL.US_4 - Xylem Inc. CFD
 M.US_4 - CLOSE ONLY / Macy\'s Inc. CFD
@@ -370,25 +372,25 @@ G1A.DE_4 - GEA Group AG CFD
 CEY.UK_4 - Centamin PLC CFD
 GOLD.US_4 - Barrick Gold Corp CFD
 POLY.UK_4 - Polymetal International PLC CFD
-LNC.US_4 - Lincoln National Corp CFD
 HSY.US_4 - Hershey Co CFD 
-CGCBV.FI_4 - Cargotec Oyj CFD - class B 
+LNC.US_4 - Lincoln National Corp CFD
 DE.US_4 - Deere & Co CFD
+CGCBV.FI_4 - Cargotec Oyj CFD - class B 
 SPA35.cash - Contract for index reflecting 35 largest Spanish stocks quoted on organized market.
-BITCOINCASH - BitcoinCash
-UUP.US_5 - PowerShares DB US Dollar Index Bullish Fund ETF CFD 
 MTD.US_4 - Mettler-Toledo International I CFD
+UUP.US_5 - PowerShares DB US Dollar Index Bullish Fund ETF CFD 
+BITCOINCASH - BitcoinCash
 TKTT.FR_4 - Tarkett SA CFD
 MVC.ES_4 - Metrovacesa SA CFD
 DSM.NL_4 - Koninklijke DSM NV CFD
 ILMN.US_4 - Illumina Inc CFD
-MOH.US_4 - Molina Healthcare Inc CFD
+TELEC.CZ_4 - 02 Czech Republic AS CFD
 TSU.US_4 - Tim Participacoes SA CFD - ADR
 LPX.US_4 - Louisiana-Pacific Corp CFD
-TELEC.CZ_4 - 02 Czech Republic AS CFD
+MOH.US_4 - Molina Healthcare Inc CFD
 KMI.US_4 - Kinder Morgan Inc CFD
-HFD.UK_4 - Halfords Group PLC CFD
 AOS.US_4 - AO Smith Corp CFD
+HFD.UK_4 - Halfords Group PLC CFD
 ATO.US_4 - Atmos Energy Corp CFD
 GET.FR_4 - Groupe Eurotunnel SE CFD
 CL.US_4 - Colgate-Palmolive Co CFD 
@@ -409,18 +411,18 @@ AAP.US_4 - Advance Auto Parts Inc CFD
 MSCI.US_4 - MSCI Inc CFD - class A 
 NLSN.US_4 - Nielsen Holdings PLC CFD
 FBP.US_4 - CLOSE ONLY / First BanCorp CFD
-JUP.UK_4 - Jupiter Fund Management PLC CFD
 RSP.US_5 - Guggenheim S&P 500 Equal Weight ETF CFD 
+JUP.UK_4 - Jupiter Fund Management PLC CFD
 UA.US_4 - CLOSE ONLY / Under Armour Inc Class C CFD
 ALKS.US_4 - Alkermes PLC CFD
 CLR.US_4 - CLOSE ONLY / Continental Resources Inc CFD
 RDSA.NL_4 - Royal Dutch Shell PLC CFD
-CPA.US_4 - Copa Holdings SA CFD
 DPZ.US_4 - Domino\'s Pizza Inc CFD
+CPA.US_4 - Copa Holdings SA CFD
 BDX.US_4 - Becton Dickinson and Co CFD
 RAND.NL_4 - Randstad Holding NV CFD
-BA.UK_4 - BAE Systems PLC CFD
 ADBE.US_4 - Adobe Systems Inc CFD 
+BA.UK_4 - BAE Systems PLC CFD
 STM.IT_4 - STMicroelectronics NV CFD
 SAVE.US_4 - Spirit Airlines Inc CFD
 TLK.US_4 - Telekomunikasi Indonesia Persero Tbk PT CFD - ADR
@@ -429,14 +431,14 @@ DUE.DE_4 - Duerr AG CFD
 TYRES.FI_4 - Nokian Renkaat OYJ CFD
 ATHM.US_4 - Autohome Inc - ADR CFD
 LEG.US_4 - Leggett & Platt Inc CFD
-ITA40.cash - Contract for index reflecting 40 largest Italian stocks quoted on organized market.
 SN.UK_4 - Smith & Nephew PLC CFD
+ITA40.cash - Contract for index reflecting 40 largest Italian stocks quoted on organized market.
 NTES.US_4 - NetEase Inc CFD - ADR
 BUND10Y - Contract for long term debt securities issued by Federal Republic of Germany quoted on organized market.
 PMO.UK_4 - Premier Oil PLC CFD
 ADP.US_4 - Automatic Data Processing Inc CFD
-GBPJPY - British Pound to Japanese Yen
 SPIE.FR_4 - SPIE SA CFD
+GBPJPY - British Pound to Japanese Yen
 AME.US_4 - AMETEK Inc CFD
 LTCBTC - 100 Litecoin vs Bitcoin
 PYPL.US_4 - PayPal Holdings Inc CFD
@@ -449,9 +451,8 @@ MNG.UK_4 - M&G PLC CFD
 T.US_4 - AT&T Inc CFD 
 XLNX.US_4 - Xilinx Inc CFD
 HLMA.UK_4 - Halma PLC CFD
-ARNC.US_4 - CLOSE ONLY / Howmet Aerospace Inc CFD
 CBRL.US_4 - Cracker Barrel Old Country Sto CFD
-GEN.DK_4 - Genmab A/S CFD
+GEN.DK_4 - CLOSE ONLY / Genmab A/S CFD
 TSG.US_4 - Stars Group Inc CFD
 LAND.UK_4 - Land Securities Group PLC CFD
 LKQ.US_4 - LKQ Corp CFD
@@ -469,8 +470,8 @@ LTM.FR_5 - Lyxor MSCI EM Latin America UCITS ETF CFD
 ABI.BE_4 - Anheuser-Busch InBev SA/NV CFD
 BOL.FR_4 - Bollore SA CFD
 COR.US_4 - CoreSite Realty Corp CFD
-PPL.US_4 - PPL Corp CFD
 US2000 - Contract for index reflecting 2000 smallest American stocks quoted on organized market.
+PPL.US_4 - PPL Corp CFD
 AGS.BE_4 - Ageas CFD
 DNO.NO_4 - DNO ASA CFD
 ELUXB.SE_4 - Electrolux AB CFD
@@ -486,24 +487,24 @@ VRSK.US_4 - Verisk Analytics Inc CFD - class A
 SSPG.UK_4 - SSP Group Plc CFD
 GN.DK_4 - GN Store Nord A/S CFD
 ZECBTC - 10 Zcash vs Bitcoin
-PAH3.DE_4 - Porsche Automobil Holding SE CFD - preference shares
 CASY.US_4 - Casey\'s General Stores Inc CFD
+PAH3.DE_4 - Porsche Automobil Holding SE CFD - preference shares
 VPK.NL_4 - Koninklijke Vopak NV CFD
 SEIC.US_4 - SEI Investments Co CFD
 COG.US_4 - Cabot Oil & Gas Corp CFD
 PIN.US_5 - Invesco India Exchange-Traded Fund Trust CFD 
 CNP.US_4 - CenterPoint Energy Inc CFD
 REL.UK_4 - Reed Elsevier PLC CFD
-WMH.UK_4 - William Hill PLC CFD
 ORP.FR_4 - Orpea CFD
-FEYE.US_4 - FireEye Inc CFD
+WMH.UK_4 - William Hill PLC CFD
+FEYE.US_4 - CLOSE ONLY / FireEye Inc CFD
 ITB.US_5 - iShares U.S. Home Construction ETF CFD 
 TCO.US_4 - Taubman Centers Inc CFD
 SNPS.US_4 - Synopsys Inc CFD
-FOXA.US_4 - Fox Corp - class A CFD
 FMX.US_4 - Fomento Economico Mexicano CFD - ADR
-HNR.DE_4 - Hannover Rueck SE CFD
+FOXA.US_4 - Fox Corp - class A CFD
 MHG.NO_4 - CLOSE ONLY / Marine Harvest ASA CFD
+HNR.DE_4 - Hannover Rueck SE CFD
 OPI.US_4 - Office Properties Income Trust CFD
 TSM.US_4 - Taiwan Semiconductor Manufacuring Company Ltd CFD - ADR
 DD.US_4 - DuPont de Nemours Inc CFD
@@ -511,11 +512,11 @@ DECK.US_4 - Deckers Outdoor Corp CFD
 SDR.UK_4 - Schroders PLC CFD
 PSX.US_4 - Phillips 66 CFD
 SZU.DE_4 - Suedzucker AG CFD
-JBLU.US_4 - JetBlue Airways Corp CFD
+JBLU.US_4 - CLOSE ONLY / JetBlue Airways Corp CFD
 KGF.UK_4 - Kingfisher PLC CFD
 SNA.US_4 - Snap-on Inc CFD
-VOW1.DE_4 - Volkswagen AG CFD- common shares
 FLR.US_4 - CLOSE ONLY / Fluor Corp CFD
+VOW1.DE_4 - Volkswagen AG CFD- common shares
 MDR.US_4 - CLOSE ONLY / McDermott International Inc CFD
 COFA.FR_4 - Coface SA CFD
 ORNBV.FI_4 - Orion Oyj CFD
@@ -523,8 +524,8 @@ VRTX.US_4 - Vertex Pharmaceuticals Inc CFD
 ATL.IT_4 - Atlantia SpA CFD
 LI.FR_4 - Klepierre CFD
 CA.FR_4 - Carrefour SA CFD
-VNA.DE_4 - Vonovia SE CFD
 WTR.US_4 - Aqua America Inc CFD
+VNA.DE_4 - Vonovia SE CFD
 PFG.US_4 - Principal Financial Group Inc CFD
 J.US_4 - Jacobs Engineering Group Inc CFD
 MMS.US_4 - MAXIMUS Inc CFD
@@ -534,13 +535,13 @@ A3M.ES_4 - Atresmedia Corp de Medios de Comunicacion SA CFD
 NKE.US_4 - NIKE Inc CFD 
 BRKB.US_4 - Berkshire Hathaway Inc CFD - class B 
 HO.FR_4 - Thales SA CFD
-KDP.US_4 - Keurig Dr Pepper Inc CFD 
 SU.FR_4 - Schneider Electric SA CFD
 WBA.US_4 - Walgreens Boots Alliance Inc CFD
+KDP.US_4 - Keurig Dr Pepper Inc CFD 
 FR.FR_4 - Valeo SA CFD
 MS.IT_4 - Mediaset SpA CFD
-AA.US_4 - CLOSE ONLY / Alcoa Inc CFD 
 GJF.NO_4 - Gjensidige Forsikring ASA CFD
+AA.US_4 - CLOSE ONLY / Alcoa Inc CFD 
 WERN.US_4 - Werner Enterprises Inc CFD
 LBK.ES_4 - Liberbank SA
 ZURN.CH_4 - Zurich Insurance Group AG CFD
@@ -549,17 +550,17 @@ BP.UK_4 - BP PLC CFD
 REE.ES_4 - Red Electrica Corp SA CFD
 NOS.PT_4 - Zon Multimedia Servicos de Telecomunicac CFD
 VTBR.UK_4 - VTB Bank PJSC - GDR CFD
-JAP225 - Contract for index reflecting 225 largest Japanese stocks quoted on organized market.
 ABC.US_4 - AmerisourceBergen Corp CFD - class A 
 SEBA.SE_4 - Skandinaviska Enskilda Banken AB CFD
+JAP225 - Contract for index reflecting 225 largest Japanese stocks quoted on organized market.
 TRV.US_4 - Travelers Cos Inc CFD
 BG.US_4 - Bunge Ltd CFD 
 PKG.US_4 - Packaging Corp of America CFD
 CLLN.UK_4 - CLOSE ONLY / Carillion PLC CFD
 CTLT.US_4 - Catalent Inc CFD
 TOD.IT_4 - Tod\'s SpA CFD
-CVS.US_4 - CVS Health Corp CFD
 WRT1V.FI_4 - Wartsila OYJ Abp CFD
+CVS.US_4 - CVS Health Corp CFD
 TL5.ES_4 - GestevisionTelecinco SA CFD
 MTX.DE_4 - MTU Aero Engines AG CFD
 LNT.US_4 - Alliant Energy Corp CFD
@@ -575,8 +576,8 @@ KOL.US_5 - VanEck Vectors Coal ETF CFD
 TRI.FR_4 - Trigano SA CFD
 RACE.IT_4 - Ferrari NV CFD
 XMRBTC - 10 Monero vs Bitcoin
-UHS.US_4 - Universal Health Services Inc CFD
 FTI.FR_4 - TechnipFMC PLC CFD
+UHS.US_4 - Universal Health Services Inc CFD
 EMB.US_5 - iShares JP Morgan USD Emerging Markets Bond ETF CFD 
 TLX.DE_4 - Talanx AG CFD
 GETIB.SE_4 - Getinge AB CFD
@@ -594,29 +595,29 @@ HSIC.US_4 - Henry Schein Inc CFD
 AIV.US_4 - Apartment Investment & Managem CFD
 SOXX.US_5 - iShares PHLX Semiconductor ETF CFD 
 DELL.US_4 - Dell Technologies Inc CFD
+SAL.IT_4 - CLOSE ONLY / Salini Impregilo SpA CFD
 NUE.US_4 - Nucor Corp CFD
-SAL.IT_4 - Salini Impregilo SpA CFD
+SAMPO.FI_4 - Sampo Oyj CFD - class A 
 IMB.UK_4 - Imperial Brands PLC CFD
 ASRNL.NL_4 - ASR Nederland NV CFD
-SAMPO.FI_4 - Sampo Oyj CFD - class A 
 KOSP200 - Contract for index reflecting 200 largest South Korean stocks quoted on organized market.
 AGK.UK_4 - Aggreko PLC CFD
-UNG.US_5 - United States Natural Gas ETF CFD 
+UNG.US_5 - CLOSE ONLY / United States Natural Gas ETF CFD 
 DOM.ES_4 - Global Dominion Access SA CFD
 ISRG.US_4 - Intuitive Surgical Inc CFD
 PWR.US_4 - Quanta Services Inc CFD
 VNO.US_4 - Vornado Realty Trust CFD
-ADABTC - 10K Cardano vs Bitcoin
 PDCO.US_4 - Patterson Cos Inc CFD
 SUI20 - Contract for index reflecting 20 largest Swiss stocks quoted on organized market.
+ADABTC - 10K Cardano vs Bitcoin
 WMG.US_4 - Warner Music Group Corp - class A CFD
 USDHUF - American Dollar to Hungarian Forint
 AGG.US_5 - iShares Core US Aggreagte ETF CFD 
 MTB.US_4 - M&T Bank Corp CFD
 NEM.US_4 - Newmont Mining Corp CFD
 KCR.FI_4 - Konecranes OYJ CFD - class A 
-LLOY.UK_4 - Lloyds Banking Group PLC CFD
 ENDP.US_4 - CLOSE ONLY / Endo International PLC CFD
+LLOY.UK_4 - Lloyds Banking Group PLC CFD
 SMDS.UK_4 - DS Smith PLC CFD
 SIX.US_4 - Six Flags Entertainment Corp CFD
 SECUB.SE_4 - Securitas AB CFD
@@ -640,44 +641,45 @@ Z.US_4 - Zillow Group Inc CFD - class C
 DUK.US_4 - Duke Energy Corp CFD
 AKERBP.NO_4 - Aker BP ASA CFD
 GEBN.CH_4 - Geberit AG CFD
-EEM.US_5 - iShares MSCI Emerging Markets ETF CFD 
 TPX.US_4 - Tempur Sealy International Inc CFD
+EEM.US_5 - iShares MSCI Emerging Markets ETF CFD 
 CETV.CZ_4 - Central European Media CFD
 CHD.US_4 - Church & Dwight Co Inc CFD
-NNN.US_4 - National Retail Properties Inc CFD
 NOKIASEK.SE_4 - Nokia OYJ CFD
+NNN.US_4 - National Retail Properties Inc CFD
 ETHBTC - 10 Ethereum vs Bitcoin
 ADNT.US_4 - Adient PLC CFD
-PSA.US_4 - Public Storage CFD
 ADP.FR_4 - Aeroports de Paris CFD
-VET.US_4 - CLOSE ONLY / Vermilion Energy Inc CFD
+PSA.US_4 - Public Storage CFD
 GLEN.UK_4 - Glencore INT PLC CFD
+VET.US_4 - CLOSE ONLY / Vermilion Energy Inc CFD
 FXE.US_5 - CurrencyShares Euro Trust ETF CFD 
 TFX.US_4 - Teleflex Inc CFD
 NDA.DK_4 - Nordea Bank AB CFD
 D.US_4 - Dominion Resources Inc CFD
 RGLD.US_4 - Royal Gold Inc CFD
 BITCOIN - Bitcoin
-FRA40.cash - Contract for index reflecting 40 largest French stocks quoted on organized market.
 ANF.US_4 - CLOSE ONLY / Abercrombie & Fitch Co CFD 
+FRA40.cash - Contract for index reflecting 40 largest French stocks quoted on organized market.
 AEE.US_4 - Ameren Corp CFD
 CHFPLN - Swiss Frank to Polish Zloty
 CBD.US_4 - Companhia Brasileira de Distribuicao CFD - ADR
 DFS.US_4 - Discover Financial Services CFD
 MGM.US_4 - MGM Resorts International CFD
+TPK.UK_4 - Travis Perkins PLC CFD
 EQT.US_4 - CLOSE ONLY / EQT Corp CFD
 DKS.US_4 - Dick\'s Sporting Goods Inc CFD
-TPK.UK_4 - Travis Perkins PLC CFD
 PEG.US_4 - Public Service Enterprise Grou CFD
 MT.NL_4 - ArcelorMittal CFD
 SBER.UK_4 - Sberbank of Russia PJSC CFD - ADR 
-CPS.US_4 - Cooper-Standard Holdings Inc CFD
 JNJ.US_4 - Johnson & Johnson CFD 
 PNR.US_4 - Pentair PLC CFD
+CPS.US_4 - Cooper-Standard Holdings Inc CFD
 USDJPY - American Dollar to Japanese Yen
-NOV.US_4 - National Oilwell Varco Inc. CFD
 FDX.US_4 - FedEx Corp CFD 
+NOV.US_4 - National Oilwell Varco Inc. CFD
 VMW.US_4 - VMware Inc CFD - class A 
+DIN.US_4 - Dine Brands Global Inc CFD
 BA.US_4 - Boeing Co CFD 
 CSX.US_4 - CSX Corp CFD
 EZJ.UK_4 - Easy Jet PLC CFD
@@ -685,8 +687,8 @@ ABF.UK_4 - Associated British Foods PLC CFD
 REP1.ES_4 - Repsol YPF SA CFD
 EL.FR_4 - EssilorLuxottica CFD
 TIE1V.FI_4 - Tieto OYJ CFD
-SY1.DE_4 - Symrise AG CFD
 VAL.US_4 - CLOSE ONLY / Valaris plc - class A CFD
+SY1.DE_4 - Symrise AG CFD
 HEI.DE_4 - Heidelberg Cement AG CFD
 SAN1.ES_4 - Banco Santander SA CFD
 CYH.US_4 - CLOSE ONLY / Community Health Systems Inc CFD
@@ -695,22 +697,22 @@ IPN.FR_4 - Ipsen SA CFD
 NEO.FR_4 - Neopost SA CFD
 SOI.FR_4 - SOITEC CFD
 NYT.US_4 - New York Times Co CFD - class C 
-STB.NO_4 - Storebrand ASA CFD
-STERV.FI_4 - Stora Enso OYJ CFD
 EURHUF - Euro to Hungarian Forint
+STERV.FI_4 - Stora Enso OYJ CFD
+STB.NO_4 - Storebrand ASA CFD
 SUGAR - Contract for Sugar quoted on organized market.
 HON.US_4 - Honeywell International Inc CFD
 BAC.US_4 - Bank of America Corp CFD 
 BIIB.US_4 - Biogen Idec Inc CFD
-ECL.US_4 - Ecolab Inc CFD
 RF.FR_4 - Eurazeo SA CFD
-CIB.US_4 - Bancolombia SA CFD - ADR
+ECL.US_4 - Ecolab Inc CFD
 DOC.US_4 - Physicians Realty Trust CFD
+CIB.US_4 - Bancolombia SA CFD - ADR
 HRL.US_4 - Hormel Foods Corp CFD
 NHY.NO_4 - Norsk Hydro ASA CFD
 I.US_4 - CLOSE ONLY / Intelsat SA CFD
-TLT.US_5 - iShares 20+ Year Treasury Bond ETF CFD
 CBG.UK_4 - Close Brothers Group PLC CFD
+TLT.US_5 - iShares 20+ Year Treasury Bond ETF CFD
 SPY.US_5 - SDPR S&P 500 Trust ETF CFD 
 FCX.US_4 - CLOSE ONLY / Freeport-McMoRan Copper & Gold Inc CFD 
 MD.US_4 - MEDNAX Inc CFD
@@ -721,16 +723,16 @@ SLV.US_5 - iShares Silver Trust ETF CFD
 AKE.FR_4 - Arkema SA CFD
 GM.US_4 - General Motors Co CFD
 DIA.ES_4 - Distribuidora Internacional de Alimentacion SA CFD
-SNR.UK_4 - Senior PLC CFD
 OR.FR_4 - L\'Oreal SA CFD
+SNR.UK_4 - Senior PLC CFD
 MAA.US_4 - Mid-America Apartment Communit CFD
 EA.US_4 - Electronic Arts Inc CFD
 LUPE.SE_4 - CLOSE ONLY / Lundin Petroleum AB CFD
 GTS.US_4 - Triple-S Management Corp CFD - class B 
 GOOGL.US_4 - Alphabet Inc CFD - class A 
 HII.US_4 - Huntington Ingalls Industries CFD
-GOLD - Quotations of troy ounce of Gold on the interbank market.
 BMRN.US_4 - BioMarin Pharmaceutical Inc. CFD
+GOLD - Quotations of troy ounce of Gold on the interbank market.
 RS.US_4 - Reliance Steel & Aluminum Co CFD
 GNFT.FR_4 - Genfit CFD
 TTM.US_4 - CLOSE ONLY / Tata Motors Ltd CFD - ADR
@@ -738,8 +740,8 @@ JYSK.DK_4 - Jyske Bank A/S CFD
 IR.US_4 - Ingersoll-Rand PLC CFD
 GFS.UK_4 - G4S PLC CFD
 DCC.UK_4 - DCC PLC CFD
-BCHBTC - 10 Bitcoin Cash vs Bitcoin
 KHC.US_4 - Kraft Heinz Co CFD
+BCHBTC - 10 Bitcoin Cash vs Bitcoin
 AVGO.US_4 - Avago Technologies Ltd CFD
 USDMXN - American Dollar to Mexican Peso
 BBVA.ES_4 - BBVA CFD
@@ -776,30 +778,29 @@ LEO.DE_4 - Leoni AG CFD
 ITA40 - Contract for index reflecting 40 largest Italian stocks quoted on organized market.
 WPG.US_4 - CLOSE ONLY / Washington Prime Group Inc CFD
 JD.US_4 - JD.com Inc. CFD - ADR
-PHNX.UK_4 - Phoenix Group Holdings CFD
 ACX1.ES_4 - Acerinox SA CFD
+PHNX.UK_4 - Phoenix Group Holdings CFD
 CLA.FR_4 - Claranova SADIR CFD
-ACN.US_4 - Accenture PLC CFD - class A 
 REMX.US_5 - VanEck Vectors Rare Earth ETF CFD 
+ACN.US_4 - Accenture PLC CFD - class A 
 BKR.US_4 - Baker Hughes Co - class A CFD
-STMP.US_4 - Stamps.com Inc CFD
 PFG.UK_4 - Provident Financial PLC CFD
+STMP.US_4 - Stamps.com Inc CFD
 MED.US_4 - Medifast Inc CFD
-AG.US_4 - CLOSE ONLY / First Majestic Silver Corp CFD
 PDD.US_4 - Pinduoduo Inc CFD - ADR
+AG.US_4 - CLOSE ONLY / First Majestic Silver Corp CFD
 AI.FR_4 -  Air Liquide SA CFD
 VIS.ES_4 - Viscofan CFD
 PETS.UK_4 - Pets at Home Group Plc CFD
 VOLVB.SE_4 - Volvo AB CFD
-EAF.US_4 - GrafTech International Ltd CFD
 IBB.US_5 - iShares Nasdaq Biotechnology Index ETF CFD 
 MGAM.UK_4 - Morgan Advanced Materials PLC CFD
 NEE.US_4 - NextEra Energy Inc CFD
 PLP.UK_4 - Polypipe Group PLC CFD
 CPRT.US_4 - Copart Inc CFD
 DVN.US_4 - CLOSE ONLY / Devon Energy Corp CFD
-AMS.ES_4 - Amadeus IT Holding  CFD
 PHR.PT_4 - Pharol SGPS SA CFD
+AMS.ES_4 - Amadeus IT Holding  CFD
 AMP.ES_4 - Amper SA CFD
 OUT1V.FI_4 - Outokumpu OYJ CFD
 PGR.US_4 - Progressive Corp CFD
@@ -810,8 +811,8 @@ MF.FR_4 - Wendel SA CFD
 SCI.US_4 - Service Corp International CFD
 IVE.US_5 - iShares S&P 500 Value ETF CFD 
 MKS.UK_4 - Marks & Spencer Group PLC CFD
-CERN.US_4 - Cerner Corp CFD
 AUTO.UK_4 - Auto Trader Group PLC CFD
+CERN.US_4 - Cerner Corp CFD
 ED.US_4 - Consolidated Edison Inc CFD
 TSCO.US_4 - Tractor Supply Co CFD
 GOOGC.US_4 - Alphabet Inc CFD  class C
@@ -834,8 +835,8 @@ COP.US_4 - ConocoPhillips CFD
 AMC.US_4 - AMC Entertainment Holdings Inc - class A CFD
 BLL.US_4 - Ball Corp CFD
 UMPQ.US_4 - CLOSE ONLY / Umpqua Holdings Corp CFD
-RI.FR_4 - Pernod-Richard SA CFD
 RRC.US_4 - CLOSE ONLY / Range Resources Corp CFD
+RI.FR_4 - Pernod-Richard SA CFD
 PAYX.US_4 - Paychex Inc CFD
 CLNX.ES_4 - Cellnex Telecom SA CFD
 VTR.US_4 - Ventas Inc CFD
@@ -859,8 +860,8 @@ MOWI.NO_4 - Mowi ASA CFD
 LOPE.US_4 - Grand Canyon Education Inc CFD
 HYG.US_5 - iShares iBoxx $ High Yield Cor ETF CFD 
 TMUS.US_4 - T-Mobile US Inc CFD
-PKX.US_4 - POSCO CFD - ADR
 HCC.US_4 - Warrior Met Coal Inc CFD
+PKX.US_4 - POSCO CFD - ADR
 LM.US_4 - Legg Mason Inc CFD
 CHKP.US_4 - Check Point Software Technologies Ltd CFD
 PTEN.US_4 - CLOSE ONLY / Patterson-UTI Energy Inc CFD
@@ -879,10 +880,10 @@ BZU.IT_4 - Buzzi Unicem SpA CFD
 PRGO.US_4 - Perrigo Co PLC CFD
 BMA.US_4 - Banco Macro SA CFD - ADR
 HHC.US_4 - Howard Hughes Corp CFD
-FIVE.US_4 - Five Below Inc CFD
 GIS.US_4 - General Mills Inc CFD
-DG.US_4 - Dollar General Corp CFD
+FIVE.US_4 - Five Below Inc CFD
 UNFI.US_4 - CLOSE ONLY / United Natural Foods Inc CFD
+DG.US_4 - Dollar General Corp CFD
 CIEN.US_4 - Ciena Corp CFD
 IMA.IT_4 - Industria Macchine Automatiche SpA CFD
 PLD.US_4 - Prologis Inc CFD
@@ -904,38 +905,38 @@ BOSS.DE_4 - HUGO BOSS AG CFD
 RENE.PT_4 - REN - Redes Energeticas Nacionais SGPS SA CFD
 YPF.US_4 - CLOSE ONLY / YPF Sociedad Anonima CFD - ADR
 WKP.UK_4 - Workspace Group PLC CFD
-ENI.IT_4 - Eni SpA CFD
 CGNX.US_4 - Cognex Corp CFD
+ENI.IT_4 - Eni SpA CFD
 DE30 - Contract for index reflecting 30 largest German stocks quoted on organized market.
 RDUS.US_4 - Radius Health Inc CFD
 KNSL.US_4 - Kinsale Capital Group Inc CFD
 LRCX.US_4 - Lam Research Corp CFD
-MDY.US_5 - SPDR S&P Midcap 400 ETF CFD 
 SHA.DE_4 - Schaeffler AG CFD - preference shares
+MDY.US_5 - SPDR S&P Midcap 400 ETF CFD 
 AUT20 - Contract for index reflecting 20 largest Austrian stocks quoted on organized market.
 COLR.BE_4 - Colruyt SA CFD
 MSM.US_4 - MSC Industrial Direct Co Inc - class A CFD
 PTON.US_4 - Peloton Interactive Inc - class A CFD
-ORI.US_4 - Old Republic International Cor CFD
 IGG.UK_4 - IG Group Holdings PLC CFD
-BKNG.US_4 - Booking Holdings Inc CFD
+ORI.US_4 - Old Republic International Cor CFD
 PM.US_4 - Philip Morris International Inc CFD 
+BKNG.US_4 - Booking Holdings Inc CFD
 EOSBTC - 1K EOS vs Bitcoin
 ML.FR_4 - Cie Generale des Etablissements Michelin CFD
 WTB.UK_4 - Whitbread PLC CFD
 FLEX.US_4 - CLOSE ONLY / Flex Ltd CFD
 VALMT.FI_4 - Valmet OYJ CFD
-EVR.UK_4 - Evraz PLC CFD
 CCJ.US_4 - CLOSE ONLY / Cameco Corp CFD
+EVR.UK_4 - Evraz PLC CFD
 FCC.ES_4 - Fomento de Construcciones y Contratas SA CFD
 HMC.US_4 - Honda Motor Co Ltd - ADR CFD
 ARYN.CH_4 - Aryzta AG CFD
 DBK.DE_4 - Deutsche Bank AG CFD
 HPT.US_4 - Hospitality Properties Trust CFD
 GBPNZD - British Pound to New Zealand Dollar
-TELIA1.FI_4 - Telia Co AB CFD
-USO.US_5 - CLOSE ONLY / United States Oil Fund LP ETF CFD 
 CEZ1.CZ_4 - CEZ AS CFD
+USO.US_5 - CLOSE ONLY / United States Oil Fund LP ETF CFD 
+TELIA1.FI_4 - Telia Co AB CFD
 NEOBTC - 100 NEO vs Bitcoin
 OEC.US_4 - CLOSE ONLY / Orion Engineered Carbons SA CFD
 MMM.US_4 - 3M Co CFD 
@@ -944,8 +945,8 @@ SHAK.US_4 - Shake Shack Inc - class A CFD
 XLI.US_5 - Industrial Select Sector SPDR ETF CFD 
 TGS.NO_4 - TGS Nopec Geophysical Co ASA CFD
 AGNC.US_4 - AGNC Investment Corp CFD
-UPRO.US_5 - ProShares UltraPro S&P 500 CFD 
 NDA.FI_4 - Nordea Bank Abp CFD
+UPRO.US_5 - ProShares UltraPro S&P 500 CFD 
 WPP.UK_4 - WPP PLC CFD
 KORI.FR_4 - Korian SA CFD
 AVT.US_4 - Avnet Inc CFD
@@ -966,8 +967,8 @@ PPG.US_4 - PPG Industries Inc CFD
 USDPLN - American Dollar to Polish Zloty
 STAG.US_4 - STAG Industrial Inc CFD
 PUM.DE_4 - Puma SE CFD
-CAF.ES_4 - Caonstrucciones y Auxiliar de Ferrocarriles SA CFD
 BABA.US_4 - Alibaba CFD - ADR
+CAF.ES_4 - Caonstrucciones y Auxiliar de Ferrocarriles SA CFD
 WSM.US_4 - Williams-Sonoma Inc CFD
 SYMC.US_4 - Symantec Corp CFD 
 AMZN.US_4 - Amazon.com Inc CFD 
@@ -993,8 +994,8 @@ ANTO.UK_4 - Antofagasta PLC CFD
 INDV.UK_4 - Indivior PLC CFD
 SPX.UK_4 - Spirax-Sarco Engineering PLC CFD
 LULU.US_4 - Lululemon Athletica Inc CFD
-COTTON - Contract for Cotton quoted on organized market.
 COL.ES_4 - Inmobilaria Colonial SA CFD
+COTTON - Contract for Cotton quoted on organized market.
 AHT.UK_4 - Ashtead Group PLC CFD
 TDOC.US_4 - Teladoc Health Inc CFD
 WIX.US_4 - Wix.com Ltd. CFD
@@ -1006,14 +1007,14 @@ BYND.US_4 - Beyond Meat Inc CFD
 INTU.US_4 - Intuit Inc CFD
 ECR.ES_4 - Ercros SA CFD
 LEA.US_4 - Lear Corp CFD
+ENX.FR_4 - Euronext NV CFD
 DLG.UK_4 - Direct Line Insurance Group CFD
 ICE.US_4 - Intercontinental Exchange Inc CFD
-ENX.FR_4 - Euronext NV CFD
 GPOR.US_4 - CLOSE ONLY / Gulfport Energy Corp CFD
 IEX.US_4 - IDEX Corp CFD
 EU50 - Contract for index reflecting 50 largest European stocks quoted on organized market.
-ECOL.US_4 - US Ecology Inc CFD
 OGZD.UK_4 - Gazprom PAO CFD - ADR 
+ECOL.US_4 - US Ecology Inc CFD
 BLT.UK_4 - BHP Billiton PLC CFD
 CTVA.US_4 - Corteva Inc CFD
 RWM.US_5 - ProShares Short Russell2000 CFD
@@ -1021,8 +1022,8 @@ IRS.US_4 - CLOSE ONLY / IRSA Inversiones y Representac CFD - ADR
 CORN - Contract for Corn quoted on organized market.
 CS.FR_4 - AXA SA CFD
 KCO.DE_4 - Kloeckner & Co SE CFD - preference shares
-NN.NL_4 - NN Group NV CFD
 STM.FR_4 - STMicroelectronics NV CFD
+NN.NL_4 - NN Group NV CFD
 HBI.US_4 - CLOSE ONLY / Hanesbrands Inc CFD
 RJF.US_4 - Raymond James Financial Inc CFD
 LYV.US_4 - Live Nation Entertainment Inc CFD
@@ -1038,11 +1039,11 @@ HFC.US_4 - HollyFrontier Corp CFD
 UFS.US_4 - Domtar Corp CFD
 AUDCHF - Australian Dollar to Swiss Frank
 MUR.US_4 - CLOSE ONLY / Murphy Oil Corp CFD
-NGG.US_4 - National Grid PLC - ADR CFD
 SCHA.NO_4 - Schibsted ASA CFD
+NGG.US_4 - National Grid PLC - ADR CFD
 RR.UK_4 - Rolls-Royce Group PLC CFD
-KAZ.UK_4 - Kazakhmys PLC CFD
 IEF.US_5 - iShares 7-10 year Treasury Bonds ETF CFD 
+KAZ.UK_4 - Kazakhmys PLC CFD
 MXIM.US_4 - Maxim Integrated Products Inc CFD
 TEL2B.SE_4 - Tele2 AB CFD
 DASH - Dash
@@ -1055,9 +1056,10 @@ KORS.US_4 - Michael Kors Holdings Ltd CFD
 NOEJ.DE_4 - Norma Group SE CFD
 PVH.US_4 - PVH Corp CFD
 PALLADIUM - Palladium  troy ounce based CFD
+LMND.US_4 - Lemonade Inc CFD
 SPD.UK_4 - CLOSE ONLY / Sport Direct International CFD
-UCB.BE_4 - UCB SA CFD
 FIZZ.US_4 - National Beverage Corp CFD
+UCB.BE_4 - UCB SA CFD
 SO.US_4 - Southern Co CFD
 UAL.US_4 - United Continental Holdings In CFD
 UMI.BE_4 - Umicore SA CFD
@@ -1082,20 +1084,20 @@ PNL.NL_4 - PostNL NV CFD
 OCI.NL_4 - OCI NV CFD
 ELY.US_4 - CLOSE ONLY / Callaway Golf Co CFD
 VC.US_4 - Visteon Corp CFD 
-FXPO.UK_4 - Ferrexpo PLC CFD
 SCMN.CH_4 - Swisscom AG CFD
 EWT.US_5 - iShares MSCI Taiwan ETF CFD 
-FLO.US_4 - Flowers Foods Inc CFD
+FXPO.UK_4 - Ferrexpo PLC CFD
 PSG.ES_4 - Prosegur Cia de Seguridad SA CFD
+FLO.US_4 - Flowers Foods Inc CFD
 VIG.CZ_4 - Vienna Insurance Group CFD
 ULVR.UK_4 - Unilever PLC CFD
 ELE.ES_4 - Endesa SA CFD
 DWNI.DE_4 - Deutsche Wohnen AG CFD
 AMT.US_4 - American Tower Corp CFD
 UST.FR_5 - Lyxor Nasdaq-100 UCITS ETF CFD
+HEIA.NL_4 - Heineken NV CFD
 METSO.FI_4 - Metso OYJ CFD
 TFI.FR_4 - Television Francaise 1 CFD
-HEIA.NL_4 - Heineken NV CFD
 BKIA.ES_4 - Bankia SA CFD
 TRE.ES_4 - Tecnicas Reunidas SA CFD
 LII.US_4 - Lennox International Inc CFD
@@ -1109,13 +1111,12 @@ SBRY.UK_4 - J Sainsbury PLC CFD
 STL.NO_4 - Statoil ASA CFD
 BKG.UK_4 - Berkeley Group Holdings PLC CFD
 DLN.UK_4 - Derwent London PLC CFD
-BRAComp - Contract for index reflecting largest Brazilian stocks quoted on organized market.
 W20 - Contract for index reflecting 20 largest Polish stocks quoted on organized market.
-CCU.US_4 - Compania Cervecerias Unidas SA CFD - ADR
+BRAComp - Contract for index reflecting largest Brazilian stocks quoted on organized market.
 EXAS.US_4 - Exact Sciences Corp CFD
+CCU.US_4 - Compania Cervecerias Unidas SA CFD - ADR
 ADS.US_4 - Alliance Data Systems Corp CFD
 LDOS.US_4 - Leidos Holdings Inc CFD
-OII.US_4 - Oceaneering International Inc CFD
 UG.FR_4 - Peugeot SA CFD
 TRYG.DK_4 - Tryg A/S CFD
 ACM.US_4 - AECOM CFD
@@ -1138,11 +1139,11 @@ EXPN.UK_4 - Experian PLC CFD
 ALO.FR_4 - Alstom SA CFD
 TEN.IT_4 - Tenaris SA CFD
 IEV.US_5 - iShares Europe ETF CFD 
+DBV.FR_4 - DBV Technologies SA CFD
 MTZ.US_4 - MasTec Inc CFD
 DIM.FR_4 - Sartorius Stedim Biotech CFD
-DBV.FR_4 - DBV Technologies SA CFD
-JNK.US_5 - SPDR Barclays High Yield Bond ETF CFD 
 FRA40 - Contract for index reflecting 40 largest French stocks quoted on organized market.
+JNK.US_5 - SPDR Barclays High Yield Bond ETF CFD 
 JPM.US_4 - JPMorgan Chase & Co CFD 
 HIG.US_4 - Hartford Financial Services Gr CFD
 CAR.US_4 - Avis Budget Group Inc CFD
@@ -1150,8 +1151,8 @@ IBM.US_4 - International Business Machines Corp CFD
 NZDUSD - New Zealand Dollar to American Dollar
 MAR.US_4 - Marriott International Inc CFD 
 TGS.US_4 - CLOSE ONLY / Transportadora de Gas del Sur CFD - ADR
-LUNE.SE_4 - Lundin Energy AB CFD
 SRP.UK_4 - Serco Group PLC CFD
+LUNE.SE_4 - Lundin Energy AB CFD
 KMT.US_4 - Kennametal Inc CFD
 MOS.US_4 - Mosaic Co CFD
 ON.US_4 - ON Semiconductor Corp CFD
@@ -1168,8 +1169,8 @@ NK.FR_4 - Imerys SA CFD
 HCA.US_4 - HCA Holdings Inc CFD
 INF.UK_4 - Informa PLC CFD
 EPC.US_4 - Edgewell Personal Care Co CFD
-MASI.US_4 - Masimo Corp CFD
 USDZAR - American Dollar to South African Rand
+MASI.US_4 - Masimo Corp CFD
 SEV.FR_4 - Suez Environment Co CFD
 BTA.UK_4 - BT Group PLC CFD
 XLE.US_5 - Energy Select Sector SPDR Fund ETF CFD 
@@ -1178,10 +1179,10 @@ NZDJPY - New Zealand Dollar to Japanese Yen
 TKA.DE_4 - Thyssenkrupp AG CFD
 FTNT.US_4 - Fortinet Inc CFD
 AMD.US_4 - Advanced Micro Devices Inc CFD
-WMB.US_4 - Williams Cos Inc CFD
-STLD.US_4 - Steel Dynamics Inc CFD
 AGL.IT_4 - Autogrill SpA CFD
+STLD.US_4 - Steel Dynamics Inc CFD
 MC.FR_4 - LVMH Moet Hennessy Louis Vuitton SA CFD
+WMB.US_4 - Williams Cos Inc CFD
 REGN.US_4 - Regeneron Pharmaceuticals CFD
 GBLB.BE_4 - Groupe Bruxelles Lambert SA CFD
 MARS.UK_4 - Marstons PLC CFD
@@ -1222,8 +1223,8 @@ BOO.UK_4 - Boohoo Group PLC CFD
 EURSEK - Euro to Swedish Krona
 WETF.US_4 - CLOSE ONLY / WisdomTree Investments Inc CFD
 AGCO.US_4 - AGCO Corp CFD
-UBI.IT_4 - Unione di Banche Italiane SpA CFD
 XRT.US_5 - SPDR S&P Retail ETF CFD 
+UBI.IT_4 - Unione di Banche Italiane SpA CFD
 WFT.US_4 - CLOSE ONLY / Weatherford International PLC CFD
 OMC.US_4 - Omnicom Group Inc CFD
 PCG.US_4 - CLOSE ONLY / PG&E Corp CFD
@@ -1232,16 +1233,16 @@ NSC.US_4 - Norfolk Southern Corp CFD
 SMG.US_4 - Scotts Miracle-Gro CFD
 OKE.US_4 - ONEOK Inc CFD
 FIT.US_4 - CLOSE ONLY / FitBit Inc CFD - class A 
-TWTR.US_4 - Twitter Inc CFD
-NVST.US_4 - Envista Holdings Corp CFD
 CNA.UK_4 - Centrica PLC CFD
+NVST.US_4 - Envista Holdings Corp CFD
+TWTR.US_4 - Twitter Inc CFD
 SRG.IT_4 - Snam SpA CFD
 1COV.DE_4 - Covestro AG CFD
 ASC.UK_4 - ASOS PLC CFD
 ROSN.UK_4 - Rosneft OAO CFD - GDR 
-EFA.US_5 - iShares MSCI EAFE ETF CFD 
 SSABA.SE_4 - SSAB AB CFD - class A 
 SRE.US_4 - Sempra Energy CFD
+EFA.US_5 - iShares MSCI EAFE ETF CFD 
 SLA.UK_4 - Standard Life Aberdeen PLC CFD
 NTCT.US_4 - NetScout Systems Inc CFD
 SUBC.NO_4 - Subsea 7 SA CFD
@@ -1260,25 +1261,25 @@ KIE.UK_4 - Kier Group PLC CFD
 NCLH.US_4 - Norwegian Cruise Line Holdings Ltd CFD
 WWD.US_4 - Woodward Inc CFD
 BAVA.DK_4 - Bavarian Nordic A/S CFD
-TDS.US_4 - Telephone & Data Systems Inc CFD
 ELIS.FR_4 - Elis SA CFD
+TDS.US_4 - Telephone & Data Systems Inc CFD
 ITRK.UK_4 - Intertek Group PLC CFD
-HAIN.US_4 - Hain Celestial Group Inc CFD
 ICP.UK_4 - Intermediate Capital Group PLC CFD
+HAIN.US_4 - Hain Celestial Group Inc CFD
 IJH.US_5 - iShares Core S&P Mid-Cap ETF CFD
 LAMR.US_4 - Lamar Advertising Co CFD - class A 
 GPOR.UK_4 - Great Portland Estates PLC CFD
-NWSA.US_4 - CLOSE ONLY / News Corp CFD 
 IPS.FR_4 - IPSOS CFD
+NWSA.US_4 - CLOSE ONLY / News Corp CFD 
 WY.US_4 - Weyerhaeuser Co CFD
 MAS.ES_4 - Masmovil Ibercom SA CFD
 DIS.US_4 - Walt Disney Co CFD 
 OAS.US_4 - CLOSE ONLY / Oasis Petroleum Inc CFD
-TSLA.US_4 - Tesla Motors Inc. CFD
 HWDN.UK_4 - Howden Joinery Group PLC CFD
+TSLA.US_4 - Tesla Motors Inc. CFD
 URBN.US_4 - Urban Outfitters Inc CFD
-NEM.DE_4 - Nemetschek SE CFD
 SPI.UK_4 - Spire Healthcare Group PLC CFD
+NEM.DE_4 - Nemetschek SE CFD
 CZR.US_4 - CLOSE ONLY / Caesars Entertainment Corp CFD
 USDCLP - American Dollar to Chilean Peso
 VWO.US_5 - Vanguard FTSE Emerging Markets ETF CFD 
@@ -1290,8 +1291,8 @@ ATR.US_4 - AptarGroup Inc CFD
 EW.US_4 - Edwards Lifesciences Corp CFD
 DRI.US_4 - Darden Restaurants Inc CFD
 NSTG.US_4 - NanoString Technologies Inc CFD
-BRKS.US_4 - Brooks Automation Inc CFD
 EOAN.DE_4 - E.ON AG CFD
+BRKS.US_4 - Brooks Automation Inc CFD
 LECO.US_4 - Lincoln Electric Holdings Inc CFD
 BNDX.US_5 - Vanguard Total International Bond ETF CFD 
 GFRD.UK_4 - Galliford Try PLC CFD
@@ -1301,13 +1302,13 @@ EL.US_4 - Estee Lauder Cos Inc CFD  - class A
 AA.UK_4 - AA PLC CFD
 LKOD.UK_4 - LUKOIL PJSC - ADR CFD
 KBC.BE_4 - KBC Groep NV CFD
-UNP.US_4 - Union Pacific Corp CFD
 DIA.US_5 - SPDR Dow Jones Industrial Average Trust ETF CFD 
+UNP.US_4 - Union Pacific Corp CFD
 AMCX.US_4 - AMC Networks Inc CFD
 EWY.US_5 - iShares MSCI South Korea Cappe ETF CFD 
 CPR.IT_4 - Davide Campari-Milano SpA CFD
-ENC.ES_4 - Ence Energia u Celulosa AS CFD
 SQM.US_4 - Sociedad Quimica y Minera de Chile S.A. CFD - ADR
+ENC.ES_4 - Ence Energia u Celulosa AS CFD
 DANSKE.DK_4 - Danske Bank A/S CFD
 EURNZD - Euro to New Zealand Dollar
 NVDA.US_4 - NVIDIA Corp CFD
@@ -1331,11 +1332,11 @@ EURCAD - Euro to Canadian Dollar
 CME.US_4 - CME Group Inc CFD 
 WRK.US_4 - WestRock Co CFD
 APHA.US_4 - CLOSE ONLY / Aphria Inc CFD
-LH.US_4 - Laboratory Corp of America Hol CFD
 SPOT.US_4 - Spotify Technology SA CFD
+LH.US_4 - Laboratory Corp of America Hol CFD
 BKT.ES_4 - Bankinter SA CFD
-CCI.US_4 - Crown Castle International Cor CFD
 MGA.US_4 - Magna International Inc CFD
+CCI.US_4 - Crown Castle International Cor CFD
 WU.US_4 - Western Union Co CFD 
 DHI.US_4 - DR Horton Inc CFD
 DGE.UK_4 - Diageo PLC CFD
@@ -1363,10 +1364,10 @@ BPOST.BE_4 - bpost SA CFD
 OEF.US_5 - iShares S&P 100 ETF CFD 
 PRU.UK_4 - Prudential PLC CFD
 ACS.ES_4 - ACS Actividades de Construccion y Servicios CFD
-GALP.PT_4 - Galp Energia SGPS SA CFD
-QQ.UK_4 - QinetiQ Group PLC CFD
 CHL.US_4 - China Mobile Ltd CFD - ADR
+GALP.PT_4 - Galp Energia SGPS SA CFD
 MTN.US_4 - Vail Resorts Inc CFD
+QQ.UK_4 - QinetiQ Group PLC CFD
 ROK.US_4 - Rockwell Automation Inc CFD
 GOOG.US_4 - CLOSE ONLY / Google Inc Class A CFD
 TRXBTC - 100K TRON vs Bitcoin
@@ -1384,16 +1385,16 @@ COCOA - Contract for Cocoa quoted on organized market.
 NOVN.CH_4 - Novartis AG CFD
 DTE.US_4 - DTE Energy Co CFD
 EBRO.ES_4 - Ebro Foods SA CFD
-HKComp - Contract for index reflecting largest Hong Kong stocks quoted on organized market.
 FB.US_4 - Facebook CFD  - class A 
-PHYS.US_5 - CLOSE ONLY / Sprott Physical Gold ETF CFD
+HKComp - Contract for index reflecting largest Hong Kong stocks quoted on organized market.
 CNO.US_4 - CNO Financial Group Inc CFD
 BAKKA.NO_4 - Bakkafrost P/F CFD
+PHYS.US_5 - CLOSE ONLY / Sprott Physical Gold ETF CFD
 ISP.IT_4 - Intesa Sanpaolo SpA CFD
 BIG.US_4 - Big Lots Inc CFD
 STZ.US_4 - Constellation Brands Inc CFD - class A 
-FGR.FR_4 - Eiffage SA CFD
 HAS.US_4 - Hasbro Inc CFD
+FGR.FR_4 - Eiffage SA CFD
 GMAB.DK_4 - Genmab A/S CFD
 FIVN.US_4 - Five9 Inc CFD
 ERF.FR_4 - Eurofins Scientific SE CFD
@@ -1402,15 +1403,15 @@ UGI.US_4 - UGI Corp CFD
 SKB.DE_4 - Koenig & Bauer AG CFD
 G.IT_4 - Assicurazioni Generali SpA CFD
 GS.US_4 - Goldman Sachs Group Inc CFD 
-SKAB.SE_4 - Skanska AB CFD
 BHC.US_4 - Bausch Health Cos Inc CFD
+SKAB.SE_4 - Skanska AB CFD
 TKWY.NL_4 - Takeaway.com NV CFD
 BURL.US_4 - Burlington Stores Inc CFD 
 COLOB.DK_4 - Coloplast A/S CFD
 AEP.US_4 - American Electric Power Co Inc CFD
 AMP.IT_4 - Amplifon S.p.A CFD
-USDRON - American Dollar to Romanian Leu
 ACB.US_4 - CLOSE ONLY / Aurora Cannabis Inc CFD
+USDRON - American Dollar to Romanian Leu
 URW.NL_4 - Unibail-Rodamco SE & WFD Unibail-Rodamco NV CFD
 RCL.US_4 - Royal Caribbean Cruises Ltd CFD
 VCT.FR_4 - Vicat CFD
@@ -1434,21 +1435,21 @@ AKRX.US_4 - CLOSE ONLY / Akorn Inc CFD
 AGRO.US_4 - CLOSE ONLY / Adecoagro SA  ADR CFD
 PNDORA.DK_4 - Pandora A/S CFD
 NICKEL - Nickel quoted on organized market
-TEF1.ES_4 - Telefonica SA CFD
 ITV.UK_4 - ITV PLC CFD
-KO.US_4 - Coca-Cola Co CFD 
+TEF1.ES_4 - Telefonica SA CFD
 SXRW.DE_5 - iShares CoreFTSE 100 UCITS ETF (Acc, EUR) CFD
+KO.US_4 - Coca-Cola Co CFD 
 QGEN.US_4 - QIAGEN NV CFD
 CNK.US_4 - Cinemark Holdings Inc CFD
 CRON.US_4 - CLOSE ONLY / Cronos Group Inc CFD
 GWW.US_4 - WW Grainger Inc CFD
 INTC.US_4 - Intel Corp CFD 
-BXP.US_4 - Boston Properties Inc CFD
 VRTU.US_4 - Virtusa CORP CFD
+BXP.US_4 - Boston Properties Inc CFD
 GL.US_4 - Globe Life Inc CFD
 AV.UK_4 - Aviva PLC CFD
+PAM.US_4 - CLOSE ONLY / Pampa Energia SA CFD - ADR
 LMP.UK_4 - LondonMetric Property PLC CFD
-PAM.US_4 - Pampa Energia SA CFD - ADR
 HIK.UK_4 - Hikma Pharmaceuticals PLC CFD
 KN.FR_4 - Natixis SA CFD
 TKR.US_4 - Timken Co CFD
@@ -1459,17 +1460,17 @@ FAST.US_4 - Fastenal Co CFD
 XLU.US_5 - Utilities Select Sector SPDR ETF CFD 
 BWO.NO_4 - BW Offshore Ltd CFD
 VIAC.US_4 - ViacomCBS Inc - class B CFD
+CCL.US_4 - Carnival Corp CFD
 CON.DE_4 - Continental AG CFD
 ZTS.US_4 - Zoetis Inc CFD - class A 
-CCL.US_4 - Carnival Corp CFD
 PKI.US_4 - PerkinElmer Inc CFD
 NOW.US_4 - ServiceNow Inc CFD
 BVIC.UK_4 - Britvic PLC CFD
 FAE.ES_4 - Faes Farma SA CFD
-AAL.UK_4 - Anglo American PLC CFD
 CI.US_4 - Cigna Corp CFD
-RPRX.US_4 - Royalty Pharma PLC - class A CFD
+AAL.UK_4 - Anglo American PLC CFD
 FLS.DK_4 - FLSmidth & Co A/S CFD
+RPRX.US_4 - Royalty Pharma PLC - class A CFD
 JCQ.FR_4 - Jacquet Metal Service SA CFD
 ADS.DE_4 - Adidas AG CFD
 CDR.ES_4 - Codere SA/Spain CFD
@@ -1479,10 +1480,10 @@ FTV.US_4 - Fortive Corp CFD
 JUN3.DE_4 - Jungheinrich AG Preference Shares CFD - preference shares
 DSY.FR_4 - Dassault Systemes CFD
 SHI.UK_4 - SIG PLC CFD
-AIR.FR_4 - Airbus Group NV CFD
 IYT.US_5 - iShares Transportation Average ETF CFD
-USCANNA - Global Cannabis Giants Index calculated by BITA
+AIR.FR_4 - Airbus Group NV CFD
 BAMI.IT_4 - Banco BPM SpA CFD
+USCANNA - Global Cannabis Giants Index calculated by BITA
 LQD.US_5 - iShares iBoxx $ Investment Grade Corporate Bond ETF CFD
 MAERSKB.DK_4 - AP Moeller - Maersk A/S CFD - class B 
 UPS.US_4 - United Percel Service Inc CFD  - class B 
@@ -1497,10 +1498,10 @@ ES.US_4 - Eversource Energy CFD
 PFPT.US_4 - Proofpoint Inc CFD
 BVB.DE_4 - Borussia Dortmund GmbH & Co CFD
 SYDB.DK_4 - Sydbank A/S CFD
-XOM.US_4 - Exxon Mobil Corp CFD 
 FSLR.US_4 - First Solar Inc CFD
-ALLE.US_4 - Allegion PLC CFD
+XOM.US_4 - Exxon Mobil Corp CFD 
 VT.US_5 - Vanguard Total World Stock ETF CFD 
+ALLE.US_4 - Allegion PLC CFD
 VNQI.US_5 - Vanguard Global ex US Real Estate ETF (Dist, USD) CFD
 FXI.US_5 - iShares China Large-Cap ETF CFD 
 NYCB.US_4 - CLOSE ONLY / New York Community Bancorp Inc CFD
@@ -1511,9 +1512,9 @@ CNHI.IT_4 - CHN Industrial NV CFD
 PH.US_4 - Parker-Hannifin Corp CFD
 FOSL.US_4 - CLOSE ONLY / Fossil Group Inc CFD
 ALL.US_4 - Allstate Corp CFD
-CB.US_4 - Chubb Corp CFD
-MKTX.US_4 - MarketAxess Holdings Inc CFD
 SKT.US_4 - CLOSE ONLY / Tanger Factory Outlet Centers CFD
+MKTX.US_4 - MarketAxess Holdings Inc CFD
+CB.US_4 - Chubb Corp CFD
 TXT.US_4 - Textron Inc CFD
 DBX.US_4 - Dropbox INC. CFD - class A 
 PBYI.US_4 - CLOSE ONLY / Puma Biotechnology Inc CFD
@@ -1525,8 +1526,8 @@ DVA.US_4 - DaVita HealthCare Partners Inc CFD
 BRBY.UK_4 - Burberry Group PLC CFD
 WCN.US_4 - Waste Connections Inc CFD
 AIG.US_4 - American International Group Inc CFD 
-TFC.US_4 - Truist Financial Corp CFD
 SPA35 - Contract for index reflecting 35 largest Spanish stocks quoted on organized market.
+TFC.US_4 - Truist Financial Corp CFD
 QID.US_5 - ProShares UltraShort QQQ ETF CFD 
 TREE.US_4 - LendingTree Inc CFD
 TIF.US_4 - Tiffany & Co CFD 
@@ -1534,34 +1535,34 @@ MAERSKA.DK_4 - AP Moeller - Maersk A/S CFD - class A
 GAS.ES_4 - Naturgy Energy Group SA CFD
 FDR.FR_4 - Fonciere Des Regions CFD
 SGRO.UK_4 - Segro PLC CFD
-RMV.UK_4 - Rightmove PLC CFD
 UBI.FR_4 - UBISOFT Entertainment CFD
+RMV.UK_4 - Rightmove PLC CFD
 BNK.FR_5 - CLOSE ONLY / Lyxor STOXX Europe 600 Banks (BNK) ETF CFD
 DTE.DE_4 - Deutsche Telekom CFD
 SWMA.SE_4 - Swedish Match AB CFD
-TEL.US_4 - TE Connectivity Ltd CFD
 RMG.UK_4 - Royal Mail PLC CFD
+TEL.US_4 - TE Connectivity Ltd CFD
 UDR.US_4 - UDR Inc CFD
-TQQQ.US_5 - ProShares UltraPro QQQ ETF CFD 
 CGG.FR_4 - CGG SA CFD
+TQQQ.US_5 - ProShares UltraPro QQQ ETF CFD 
 PRY.IT_4 - Prysmian SpA CFD
 GDXJ.US_5 - VanEck Vectors Junior Gold Min ETF CFD 
 ETH.IT_4 - Eurotech SpA CFD
 IDXX.US_4 - IDEXX Laboratories Inc CFD
-C.US_4 - Citigroup Inc CFD 
 AEM.US_4 - Agnico Eagle Mines Ltd CFD
+C.US_4 - Citigroup Inc CFD 
 COPPER - Copper quoted on organized market
 THO.US_4 - Thor Industries Inc CFD
 SE1.US_4 - Sea Ltd - class A CFD
 SVT.UK_4 - Severn Trent PLC CFD
 BEKB.BE_4 - Bekaert SA CFD
 SEM.PT_4 - Semapa-Sociedade de Investimento e Gesta CFD
-FEZ.US_5 - SPDR Euro Stoxx 50 ETF CFD 
 DGX.US_4 - Quest Diagnostics Inc CFD
+FEZ.US_5 - SPDR Euro Stoxx 50 ETF CFD 
 AAL.US_4 - American Airlines CFD
 RUS50 - Contract for index reflecting 50 largest Russian stocks quoted on organized market.
-TAC.US_4 - CLOSE ONLY / TransAlta Co CFD
 SON.US_4 - Sonoco Products Co CFD
+TAC.US_4 - CLOSE ONLY / TransAlta Co CFD
 CINE.UK_4 - Cineworld Group PLC CFD
 BAP.US_4 - Credicorp Ltd CFD
 LNA.FR_4 - LNA Sante SA CFD
@@ -1585,8 +1586,8 @@ TOM2.NL_4 - TomTom NV CFD
 ORA.FR_4 - Orange SA CFD
 TOL.US_4 - Toll Brothers Inc CFD
 PROX.BE_4 - Proximus SADP CFD
-NVR.US_4 - NVR Inc CFD
 DOM.UK_4 - Domino\'s Pizza Group PLC CFD
+NVR.US_4 - NVR Inc CFD
 SNH.US_4 - CLOSE ONLY / Senior Housing Properties Trus CFD
 VIV.US_4 - CLOSE ONLY / Telefonica Brasil CFD - ADR
 TMO.US_4 - Thermo Fisher Scientific Inc CFD
@@ -1594,16 +1595,16 @@ HSBA.UK_4 - HSBC Holdings PLC CFD
 VOLX - Contract for volatility index quoted on organized market.
 BAYN.DE_4 - Bayer AG CFD
 MDC.US_4 - MDC Holdings Inc CFD
-AFL.US_4 - Aflac Inc CFD
 CNI.US_4 - Canadian National Railway Co. CFD
+AFL.US_4 - Aflac Inc CFD
 DK.US_4 - Delek US Holdings Inc CFD
 FNV.US_4 - Franco-Nevada Corp CFD
 UFPI.US_4 - Ufp Industries Inc CFD
 ULTA.US_4 - Ulta Beauty Inc CFD
 GDX.US_5 - Market Vectors Gold Miners ETF CFD 
 PLATINUM - Quotations of troy ounce of Platinum on the interbank market.
-BRE.IT_4 - Brembo SPA CFD
 LSTR.US_4 - Landstar System Inc CFD
+BRE.IT_4 - Brembo SPA CFD
 EMISS - Contract for CO2 Emission rights quoted on organized market.
 MLCO.US_4 - Melco Resorts & Entertainment Ltd CFD - ADR
 CF.US_4 - CF Industries Holdings Inc CFD
@@ -1612,17 +1613,17 @@ ALB.US_4 - Albemarle Corp CFD
 BKH.US_4 - Black Hills Corp CFD
 SIVB.US_4 - SVB Financial Group CFD
 HDB.US_4 - HDFC Bank Ltd CFD - ADR
-CMC.US_4 - Commercial Metals Co CFD
-NXI.FR_4 - Nexity SA CFD
 TELIA.SE_4 - Telia Co AB CFD
+NXI.FR_4 - Nexity SA CFD
+CMC.US_4 - Commercial Metals Co CFD
 ANA.ES_4 - Acciona SA CFD
 CTT.PT_4 - CTT-Correios de Portugal SA CFD
 CPT.US_4 - Camden Property Trust CFD
 USB.US_4 - US Bancorp CFD 
 BXS.US_4 - BancorpSouth Inc CFD
 MNDI.UK_4 - Mondi PLC CFD
-US500 - Contract for index reflecting 500 largest American stocks quoted on organized market.
 MDM.FR_4 - Maisons du Monde SA CFD
+US500 - Contract for index reflecting 500 largest American stocks quoted on organized market.
 WCH.DE_4 - Wacker Chemie AG CFD
 GTES.US_4 - CLOSE ONLY / Gates Industrial Corp PLC CFD
 SFM.US_4 - Sprouts Farmers Market Inc. CFD
@@ -1630,18 +1631,18 @@ ENIA.US_4 - CLOSE ONLY / Enel Americas SA CFD - ADR
 OCDO.UK_4 - Ocado Group PLC CFD
 TPR.US_4 - Tapestry Inc CFD
 K.US_4 - Kellogg Co CFD 
-PBCT.US_4 - People\'s United Financial Inc CFD
+PBCT.US_4 - CLOSE ONLY / People\'s United Financial Inc CFD
 TRN.IT_4 - Terna Rete Elettrica Nazionale CFD
 ATO.FR_4 - AtoS CFD
-ALUMINIUM - Aluminium quoted on organized market
 COO.US_4 - Cooper Cos Inc CFD
+ALUMINIUM - Aluminium quoted on organized market
 XLY.US_5 - Consumer Discretionary Select ETF CFD 
+CXW.US_4 - CLOSE ONLY / Corrections Corp of America CFD
 HUM.US_4 - Humana Inc CFD
 DRX.UK_4 - Drax Group PLC CFD
-CXW.US_4 - CLOSE ONLY / Corrections Corp of America CFD
-O2D.DE_4 - Telefonica Deutschland Holding AG CFD 
 AAXJ.US_5 - iShares MSCI All Country Asia ex Japan ETF CFD 
 IJR.US_5 - iShares Core S&P Small-Cap ETF CFD
+O2D.DE_4 - Telefonica Deutschland Holding AG CFD 
 APAM.NL_4 - APERAM CFD
 ADSK.US_4 - Autodesk Inc CFD
 RNR.US_4 - RenaissanceRe Holdings Ltd CFD
@@ -1650,21 +1651,21 @@ ALC.CH_4 - Alcon Inc CFD
 CE.US_4 - Celanese Corp CFD - class A 
 RCO.FR_4 - Remy Cointreau SA CFD
 DISCA.US_4 - Discovery Communications Inc CFD
+CHFJPY - Swiss Frank to Japanese Yen
 MNK.US_4 - CLOSE ONLY / Mallinckrodt PLC CFD
 BAX.US_4 - Baxter International Inc CFD
-CHFJPY - Swiss Frank to Japanese Yen
 EDP.PT_4 - EDP - Energias de Portugal SA CFD
 GTT.FR_4 - Gaztransport Et Technigaz SA CFD
 EURPLN - Euro to Polish Zloty
 ROKU.US_4 - Roku Inc - class A CFD
 PLZL.UK_4 - Polyus PJSC - GDR CFD
-DLPH.US_4 - CLOSE ONLY / Delphi Technologies PLC CFD
 CAT.US_4 - Caterpillar Inc CFD 
+DLPH.US_4 - CLOSE ONLY / Delphi Technologies PLC CFD
 ABX.US_4 - CLOSE ONLY / Barrick Gold Corp CFD
 HOG.US_4 - Harley-Davidson Inc CFD 
-TTC.US_4 - Toro Co CFD
 TLRY.US_4 - CLOSE ONLY / Tilray Inc CFD
 CHFHUF - Swiss Frank to Hungarian Forint
+TTC.US_4 - Toro Co CFD
 JUVE.IT_4 - Juventus Football Club SpA CFD
 PAGE.UK_4 - Page Group PLC CFD
 QRVO.US_4 - Qorvo Inc CFD
@@ -1672,16 +1673,16 @@ PNC.US_4 - PNC Financial Services Group I CFD
 NEX.UK_4 - National Express Group PLC CFD
 AR4.DE_4 - AURELIUS Equity Opportunities SE & Co KGaA CFD
 WFC.US_4 - Wells Fargo & Co CFD 
-NATGAS - Cntract for Natural Gas quoted on organized market.
-SRCL.US_4 - Stericycle Inc CFD
 MTCH.US_4 - Match Group Inc CFD
+SRCL.US_4 - Stericycle Inc CFD
+NATGAS - Cntract for Natural Gas quoted on organized market.
 ETL.FR_4 - Eutelsat Communications SA CFD
 IAG.ES_4 - International Consolidated Airlines Group SA CFD
 BIM.FR_4 - BioMerieux CFD
 IMI.UK_4 - IMI PLC CFD
 TGYM.IT_4 - Technogym SpA CFD
-CMI.US_4 - Cummins Inc CFD
 CRESY.US_4 - CLOSE ONLY / Cresud SACIF y A CFD - ADR
+CMI.US_4 - Cummins Inc CFD
 SBNY.US_4 - Signature Bank CFD
 OSK.US_4 - Oshkosh Corp CFD
 CSCO.US_4 - Cisco Systems Inc CFD 
@@ -1693,10 +1694,9 @@ BARC.UK_4 - Barclays PLC CFD
 FDR.ES_4 - Fluidra SA CFD
 ENTA.US_4 - Enanta Pharmaceuticals CFD
 TECH.US_4 - Bio-Techne Corp CFD
+TGNA.US_4 - CLOSE ONLY / TEGNA Inc CFD
 ABBV.US_4 - Abbvie Inc. CFD
-TGNA.US_4 - TEGNA Inc CFD
 SGE.UK_4 - Sage Group PLC 
-OIS.US_4 - Oil States International Inc CFD
 EHTH.US_4 - eHealth Inc CFD
 BSS.IT_4 - Biesse SpA CFD
 CHRW.US_4 - CH Robinson Worldwide Inc CFD
@@ -1706,9 +1706,9 @@ SQ.US_4 - Square Inc CFD - class A
 RGA.US_4 - Reinsurance Group of America I CFD - class A 
 SGO.FR_4 - Cie de St-Gobain CFD
 BAR.BE_4 - Barco NV CFD
+GH.US_4 - Guardant Health Inc CFD
 EUCAR.FR_4 - Europcar Mobility Group CFD
 ESSITYB.SE_4 - Essity AB CFD
-GH.US_4 - Guardant Health Inc CFD
 ROP.US_4 - Roper Technologies Inc CFD
 WEC.US_4 - WEC Energy Group Inc CFD
 SYF.US_4 - Synchrony Financial CFD
@@ -1718,10 +1718,10 @@ MCHP.US_4 - Microchip Technology Inc CFD
 EIX.US_4 - Edison International CFD
 USMEDIA - Global Social Media Giants Index calculated by BITA
 AZN.SE_4 - AstraZeneca PLC CFD
-NXPI.US_4 - NXP Semiconductors NV CFD
 CHR.DK_4 - Chr Hansen Holding A/S CFD
-XRX.US_4 - Xerox Corp CFD 
+NXPI.US_4 - NXP Semiconductors NV CFD
 BAB.UK_4 - Babcock International Group CFD
+XRX.US_4 - Xerox Corp CFD 
 ICAD.FR_4 - ICADE CFD
 EXP.US_4 - Eagle Materials Inc CFD
 DNB.NO_4 - DNB ASA CFD
@@ -1785,9 +1785,9 @@ MONET.CZ_4 - Moneta Money Bank CFD
 UDG.UK_4 - UDG Healthcare PLC CFD
 PFC.UK_4 - Petrofac Ltd CFD
 CNC.US_4 - Centene Corp CFD
-ANSS.US_4 - ANSYS Inc CFD
-VID.ES_4 - Vidrala SA CFD
 NOVOB.DK_4 - Novo Nordisk A/S CFD
+VID.ES_4 - Vidrala SA CFD
+ANSS.US_4 - ANSYS Inc CFD
 CACC.US_4 - Credit Acceptance Corp CFD
 NKTR.US_4 - Nektar Therapeutics CFD - class A 
 DLR.US_4 - Digital Realty Trust Inc CFD
@@ -1804,8 +1804,8 @@ CRL.US_4 - Charles River Laboratories Int CFD
 WDC.US_4 - Western Digital Corp CFD
 NDA.SE_4 - Nordea Bank AB CFD
 HUYA.US_4 - HUYA Inc CFD - ADR
-AN.US_4 - AutoNation Inc CFD
 GBPAUD - British Pound to Australian Dollar
+AN.US_4 - AutoNation Inc CFD
 VK.FR_4 - Vallourec SA CFD
 FLT.US_4 - FleetCor Technologies Inc CFD
 LLY.US_4 - Eli Lilly & Co CFD
@@ -1817,13 +1817,13 @@ EQH.US_4 - Equitable Holdings Inc CFD
 MRW.UK_4 - WM Morrison Supermarkets PLC CFD
 GT.US_4 - CLOSE ONLY / Goodyear Tire & Rubber Co CFD 
 NKLA.US_4 - Nikola Corporation CFD
-AXP.US_4 - American Express Co CFD 
 SSO.US_5 - Proshares Ultra S&P 500 ETF CFD 
+AXP.US_4 - American Express Co CFD 
 ESTC.US_4 - Elastic NV CFD
 BOY.UK_4 - Bodycote PLC CFD
-EOSETH - 100 EOS vs Ethereum
-HRB.US_4 - H&R Block Inc CFD
 JLL.US_4 - Jones Lang LaSalle Inc CFD
+HRB.US_4 - H&R Block Inc CFD
+EOSETH - 100 EOS vs Ethereum
 IT.US_4 - Gartner Inc CFD
 MRNA.US_4 - Moderna Inc CFD
 AAD.DE_4 - Amadeus Fire AG CFD
@@ -1837,18 +1837,18 @@ EXEL.US_4 - Exelixis Inc CFD
 GIL.DE_4 - DMG MORI SEIKI AG CFD
 MNST.US_4 - Monster Beverage Corp CFD
 VZ.US_4 - Verizon Communications Inc CFD 
+RNO.FR_4 - Renault SA CFD
 ING.FR_4 - Ingenico CFD
 DOX.US_4 - Amdocs Ltd CFD
-RNO.FR_4 - Renault SA CFD
 ROVI.ES_4 - Laboratorios Farmaceuticos Rovi SA CFD
 TTWO.US_4 - Take-Two Interactive Software Inc CFD
 XHB.US_5 - SPDR S&P Homebuilders ETF CFD 
 MDC.UK_4 - Mediclinic International PLC CFD
 MAP.ES_4 - Mapfre SA CFD
-ACCO.US_4 - CLOSE ONLY / ACCO Brands Corp CFD
 MCK.US_4 - McKesson Corp CFD
-SCR.FR_4 - SCOR SE CFD
+ACCO.US_4 - CLOSE ONLY / ACCO Brands Corp CFD
 SPN.US_4 - CLOSE ONLY / Superior Energy Services Inc CFD
+SCR.FR_4 - SCOR SE CFD
 ITX.ES_4 - Inditex SA CFD
 GRMN.US_4 - Garmin Ltd CFD
 RXL.FR_4 - Rexel SA CFD
@@ -1869,8 +1869,8 @@ MSI.US_4 - Motorola Solutions Inc CFD
 SNV.US_4 - Synovus Financial Corp CFD
 ENEL.IT_4 - Enel SpA CFD
 DVT.FR_4 - Devoteam SA CFD
-SOXL.US_5 - Direxion Daily Semiconductors Bull 3x Shares CFD 
 ITA.US_5 - iShares US Aerospace & Defense ETF CFD
+SOXL.US_5 - Direxion Daily Semiconductors Bull 3x Shares CFD 
 CARD.UK_4 - Card Factory PLC CFD
 METSB.FI_4 - Metsa Board OYJ CFD
 GILD.US_4 - Gilead Sciences Inc CFD
@@ -1890,13 +1890,13 @@ AGN.NL_4 - Aegon NV CFD
 ERA.FR_4 - Eramet CFD
 US30 - Contract for index reflecting 30 largest American industrial stocks quoted on organized market.
 MEXComp - Contract for index reflecting largest Mexican stocks quoted on organized market.
-GOGL.NO_4 - Golden Ocean Group Ltd CFD
 MTO.UK_4 - Mitie Group PLC CFD
+GOGL.NO_4 - Golden Ocean Group Ltd CFD
 CRI.US_4 - Carter\'s Inc CFD
 PALL.US_5 - Aberdeen Standard Physical Palladium Shares ETF CFD 
 FHN.US_4 - CLOSE ONLY / First Horizon National Corp CFD
-DISH.US_4 - DISH Network Corp CFD - class A 
 AMX.US_4 - America Movil S.A.B. de C.V. CFD - ADR
+DISH.US_4 - DISH Network Corp CFD - class A 
 BPE.IT_4 - Banca Popolare dell\'Emilia Romagna Scrl CFD
 BGNE.US_4 - Beigene Ltd - ADR CFD
 BLND.UK_4 - British Land Co PLC 
@@ -1908,17 +1908,17 @@ BMY.US_4 - Bristol-Myers Squibb Co CFD
 WMT.US_4 - Wal-Mart Stores Inc CFD 
 ASSAB.SE_4 - Assa Abloy AB CFD
 GRG.UK_4 - Greggs PLC CFD
+NBL.US_4 - CLOSE ONLY / Noble Energy Inc CFD
 USDCAD - American Dollar to Canadian Dollar
 KNX.US_4 - Knight-Swift Transportation Holdings Inc CFD - class A 
-NBL.US_4 - CLOSE ONLY / Noble Energy Inc CFD
 WST.US_4 - West Pharmaceutical Services Inc CFD
 AKAM.US_4 - Akamai Technologies Inc CFD
 ALGN.US_4 - Align Technology Inc CFD
 LYFT.US_4 - Lyft Inc - class A CFD
 TYL.US_4 - Tyler Technologies Inc CFD
 AZM.IT_4 - Azimut Holding SpA CFD
-DLG.DE_4 - Dialog Semiconductor PLC CFD
 MGNT.UK_4 - Magnit PJSC CFD - GDR 
+DLG.DE_4 - Dialog Semiconductor PLC CFD
 CTSH.US_4 - Cognizant Technology Solutions CFD - class A 
 ELI.BE_4 - Elia System Operator SA/NV CFD
 DIA.IT_4 - DiaSorin SpA CFD
@@ -1927,30 +1927,30 @@ RPM.US_4 - RPM International Inc CFD
 THC.US_4 - Tenet Healthcare Corp CFD
 BGS.US_4 - B&G Foods Inc CFD
 NEO.US_4 - Neogenomics Inc CFD
-RIG.US_4 - CLOSE ONLY / Transocean Ltd CFD
 BFB.US_4 - Brown-Forman Corp CFD
+RIG.US_4 - CLOSE ONLY / Transocean Ltd CFD
 ESV.US_4 - CLOSE ONLY / Ensco PLC CFD - class A 
 MTS.ES_4 - ArcelorMittal CFD
 ATC.NL_4 - Altice NV CFD
 POST.US_4 - Post Holdings Inc CFD
 KMX.US_4 - CarMax Inc CFD
 DHR.US_4 - Danaher Corp CFD
-AFG.US_4 - American Financial Group Inc CFD
 RHM.DE_4 - Rheinmetall AG CFD
+AFG.US_4 - American Financial Group Inc CFD
 BBY.UK_4 - Balfour Beatty PLC CFD
 AMG.US_4 - Affiliated Managers Group Inc CFD
 AIXA.DE_4 - AIXTRON SE CFD
 TRGP.US_4 - CLOSE ONLY / Targa Resources Corp CFD
 MMB.FR_4 - Lagardere SCA CFD
 ESNT.UK_4 - Essentra PLC CFD
-SPCE.US_4 - Virgin Galactic Holdings Inc - class A CFD
 DAL.US_4 - Delta Airlines INC CFD
 FDJ.FR_4 - La Francaise des Jeux SAEM CFD
+SPCE.US_4 - Virgin Galactic Holdings Inc - class A CFD
 VTI.US_5 - Vanguard Total Stock Market ETF CFD 
 DC.UK_4 - Dixons Carphone PLC CFD
 NOKIA.FI_4 - Nokia OYJ CFD
-CTAS.US_4 - Cintas Corp CFD
 ORK.NO_4 - Orkla ASA CFD
+CTAS.US_4 - Cintas Corp CFD
 AT1.DE_4 - Aroundtown SA CFD
 FP.FR_4 - Total SA CFD
 FORTUM.FI_4 - Fortum OYJ CFD
@@ -1963,10 +1963,10 @@ MMC.US_4 - Marsh & McLennan Cos Inc CFD
 GRA.US_4 - WR Grace & Co CFD
 EWW.US_5 - iShares MSCI Mexico Capped ETF CFD 
 UK100.cash - Contract for index reflecting 100 largest UK stocks quoted on organized market.
-CGC.US_4 - Canopy Growth Corp CFD
 FRC.US_4 - First Republic Bank CFD
-SF.US_4 - Stifel Financial Corp CFD
+CGC.US_4 - Canopy Growth Corp CFD
 JEF.US_4 - Jefferies Financial Group Inc CFD
+SF.US_4 - Stifel Financial Corp CFD
 UAA.US_4 - CLOSE ONLY / Under Armour Inc CFD - class A
 PAAS.US_4 - Pan American Silver Corp CFD
 CZZ.US_4 - Cosan Ltd CFD - class A 
@@ -1986,16 +1986,16 @@ VOW3.DE_4 - Volkswagen AG CFD - preference shares
 TRMB.US_4 - Trimble Navigation Ltd CFD
 SWN.US_4 - CLOSE ONLY / Southwestern Energy Co CFD
 ENB.US_4 - Enbridge Inc CFD
-KPN.NL_4 - Koninklijke KPN NV CFD
 TDC.US_4 - Teradata Corp CFD
+KPN.NL_4 - Koninklijke KPN NV CFD
 NZDCAD - New Zealand Dollar to Canadian Dollar
 MKC.US_4 - McCormick & Co Inc CFD
-ZBH.US_4 - Zimmer Biomet Holdings Inc CFD
 REG.US_4 - Regency Centers Corp CFD
+ZBH.US_4 - Zimmer Biomet Holdings Inc CFD
 OHL.ES_4 - Obrascon Huarte Lain SA CFD
 SCHATZ2Y - Instrument, which price is based on quotations of the contract for medium term debt securities issued by Federal Republic of Germany quoted on organized market.
-KBR.US_4 - KBR Inc CFD
 RRS.UK_4 - CLOSE ONLY / Randgold Resources Ltd CFD
+KBR.US_4 - KBR Inc CFD
 CSGN.CH_4 - Credit Suisse Group AG CFD
 PUB.FR_4 - Publicis Groupe SA CFD
 COF.US_4 - Capital One Financial Corp CFD
