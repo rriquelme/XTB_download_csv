@@ -14,7 +14,7 @@ import json
 import time
 import csv
 import os
-import sys
+# import sys
 # A little workaround to avoid overwrite every single time this file.
 if os.path.isfile("account.txt"):
     with open("account.txt",'r') as acc_file:
